@@ -20,8 +20,6 @@ const BrandList = ({ brandsData }) => {
     }
   });
 
-  console.table(brands);
-
   return (
     <>
       <br />
