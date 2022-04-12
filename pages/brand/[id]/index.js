@@ -1,8 +1,14 @@
 import React from "react";
 import Table from "../../../components/Table";
+import Meta from "../../../components/Meta";
 
 const Brand = ({ brandFoods }) => {
-  return <Table brandFoods={brandFoods} />;
+  return (
+    <>
+      <Meta title={brandFoods[0].fields.brand_name + " Nutrition Info"} />
+      <Table brandFoods={brandFoods} />
+    </>
+  );
 };
 
 export const getServerSideProps = async (context) => {
