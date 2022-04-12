@@ -1,10 +1,10 @@
 # Nutrition App
 
+## [See it in action](https://powerful-plateau-95151.herokuapp.com/)
+
 ![Screengrab of app's homepage and search function](/public/screenshots/nutrition-app-screenshot-search.png?raw=true)
 
 ![Screengrab of app's nutrition data](/public/screenshots/nutrition-app-screenshot-table-sort.png?raw=true)
-
-## [See it in action](https://powerful-plateau-95151.herokuapp.com/)
 
 ## Project Summary
 
