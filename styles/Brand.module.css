@@ -40,6 +40,18 @@
     height: 1em;
     margin-left: 0.5rem;
   }
+
+  .input {
+    display: block;
+    margin: 0 auto;
+    width: 60%;
+    font-size: 1.25rem;
+    padding-left: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 1px solid black;
+    border-radius: 8px;
+  }
   
   @media (max-width: 600px) {
     .grid {
@@ -48,41 +60,3 @@
     }
   }
   
-  .sectionTitle a:hover,
-  .sectionTitle a:focus,
-  .sectionTitle a:active {
-    text-decoration: underline;
-  }
-  
-  .sectionTitle {
-    margin: 0;
-    line-height: 1.15;
-    font-size: 2rem;
-    text-align: center;
-  }
-
-  .table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-
-  .table td, .table th {
-    border: 1px solid #ddd;
-    padding: 8px;
-  }
-
-  .table tr:nth-child(even) {
-    background-color: #f2f2f2;
-  }
-
-  .table tr:hover {
-    background-color: #ddd;
-  }
-
-  .table th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    background-color: #000;
-    color: #fff;
-  }

@@ -1,5 +1,5 @@
 import React from "react";
-import brandStyles from "../styles/Brand.module.css";
+import tableStyles from "../styles/Table.module.css";
 
 const Table = ({ brandFoods }) => {
   const tableHeadings = [
@@ -121,11 +121,11 @@ const Table = ({ brandFoods }) => {
 
   return (
     <div>
-      <h1 className={brandStyles.sectionTitle}>
+      <h1 className={tableStyles.sectionTitle}>
         {brandFoods[0].fields.brand_name}
       </h1>
       <br />
-      <table id="table" className={brandStyles.table}>
+      <table id="table" className={tableStyles.table}>
         <thead>
           <tr>
             {tableColumns.map((item, i) => (

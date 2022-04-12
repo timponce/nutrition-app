@@ -2,7 +2,7 @@ import Head from "next/head";
 import BrandList from "../components/BrandList";
 import styles from "../styles/Layout.module.css";
 
-export default function Home({ brands }) {
+export default function Home({ brandsData }) {
   return (
     <div className={styles.container}>
       <Head>
@@ -12,7 +12,7 @@ export default function Home({ brands }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <BrandList brands={brands} />
+      <BrandList brandsData={brandsData} />
     </div>
   );
 }
@@ -21,13 +21,11 @@ export const getStaticProps = async () => {
   const res = await fetch(
     "https://d1gvlspmcma3iu.cloudfront.net/restaurants-3d-party.json.gz"
   );
-  const brands = await res.json();
+  const brandsData = await res.json();
 
   return {
     props: {
-      brands,
+      brandsData,
     },
   };
 };
-
-// `https://api.nutritionix.com/v1_1/search/mcdonalds?results=0:20&fields=item_name,brand_name,item_id,nf_calories&appId=${process.env.API_ID}&appKey=${process.env.API_KEY}`
