@@ -1,4 +1,5 @@
 import BrandItem from "./BrandItem";
+import Announcer from "./Announcer";
 import React from "react";
 import brandStyles from "../styles/Brand.module.css";
 
@@ -11,7 +12,7 @@ const BrandList = ({ brandsData }) => {
     setSearchText(userInput);
   };
 
-  const filteredData = brands.filter((el) => {
+  const filteredBrands = brands.filter((el) => {
     if (searchText === "") {
       return el;
     } else {
@@ -32,10 +33,13 @@ const BrandList = ({ brandsData }) => {
       ></input>
       <br />
       <div className={brandStyles.grid}>
-        {filteredData.map((brand) => (
+        {filteredBrands.map((brand) => (
           <BrandItem brand={brand} key={brand.id} id={brand.id} />
         ))}
       </div>
+      <Announcer
+        message={`There are ${filteredBrands} brands to choose from.`}
+      />
     </>
   );
 };
