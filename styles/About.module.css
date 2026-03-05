@@ -1,0 +1,31 @@
+.about {
+  max-width: 600px;
+  line-height: 1.6;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.about h3 {
+  font-size: 1.25rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.about ul {
+  padding-left: 1.25rem;
+}
+
+.about li {
+  margin-bottom: 0.25rem;
+}
+
+.about a {
+  color: #0070f3;
+}
+
+.about a:hover {
+  text-decoration: underline;
+}
