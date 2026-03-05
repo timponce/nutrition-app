@@ -2,6 +2,7 @@
     display: flex;
     flex: 1;
     padding: 2rem 0;
+    padding-left: 2rem;
     border-top: 1px solid #eaeaea;
     justify-content: center;
     align-items: center;

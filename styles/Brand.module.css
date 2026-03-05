@@ -1,62 +1,194 @@
+.wrapper {
+  width: 1000px;
+  max-width: 100%;
+  min-height: 80vh;
+}
+
+.content {
+  width: 100%;
+}
+
+.stickyHeader {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #fff;
+  padding: 8px 0;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  font-size: 1rem;
+  padding: 8px 12px;
+  border: 1px solid #000;
+  border-radius: 0;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+}
+
+.letterNav {
+  display: flex;
+  flex-wrap: nowrap;
+  border: 1px solid #000;
+}
+
+.letterBtn {
+  background: #fff;
+  border: none;
+  border-right: 1px solid #ddd;
+  padding: 6px 0;
+  font-size: 0.8rem;
+  font-weight: bold;
+  cursor: pointer;
+  flex: 1;
+  text-align: center;
+}
+
+.letterBtn:last-child {
+  border-right: none;
+}
+
+.letterBtn:hover {
+  background: #f2f2f2;
+}
+
+.letterBtnActive {
+  background: #000;
+  color: #fff;
+}
+
+.letterBtnActive:hover {
+  background: #333;
+}
+
+.letterBtnDisabled {
+  color: #ccc;
+  cursor: default;
+}
+
+.letterBtnDisabled:hover {
+  background: #fff;
+}
+
 .grid {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  align-items: start;
+}
+
+.gridFlat {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px 16px;
+}
+
+.gridItem {
+  display: block;
+  padding: 6px 12px;
+  border: 1px solid #eee;
+  color: inherit;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.gridItem:hover {
+  background: #f2f2f2;
+  border-color: #000;
+}
+
+.section {
+  min-width: 0;
+}
+
+.sectionHeader {
+  background: #000;
+  color: #fff;
+  padding: 4px 8px;
+  margin: 0 0 4px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.sectionHeader:hover {
+  background: #333;
+}
+
+.sectionList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sectionList li {
+  border-bottom: 1px solid #eee;
+}
+
+.link {
+  display: block;
+  padding: 3px 8px;
+  color: inherit;
+  text-decoration: none;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.link:hover {
+  background: #f2f2f2;
+  color: #0070f3;
+}
+
+@media (max-width: 1024px) {
+  .grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .gridFlat {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  .gridFlat {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .letterNav {
     flex-wrap: wrap;
-    max-width: 800px;
   }
-  
-  .card {
-    margin: 1rem;
-    padding: 1.5rem;
-    text-align: left;
-    color: inherit;
-    text-decoration: none;
-    border: 1px solid #eaeaea;
-    border-radius: 10px;
-    transition: color 0.15s ease, border-color 0.15s ease;
-    max-width: 300px;
+
+  .letterBtn {
+    flex: 0 0 auto;
+    padding: 8px 6px;
+    font-size: 0.75rem;
+    min-width: calc(100% / 14);
   }
-  
-  .card:hover,
-  .card:focus,
-  .card:active {
-    color: #0070f3;
-    border-color: #0070f3;
+}
+
+@media (max-width: 480px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
   }
-  
-  .card h2 {
-    margin: 0 0 1rem 0;
-    font-size: 1.5rem;
-  }
-  
-  .card p {
-    margin: 0;
-    font-size: 1.25rem;
-    line-height: 1.5;
-  }
-  
-  .logo {
-    height: 1em;
-    margin-left: 0.5rem;
+
+  .gridFlat {
+    grid-template-columns: 1fr;
   }
 
   .input {
-    display: block;
-    margin: 0 auto;
-    width: 60%;
-    font-size: 1.25rem;
-    padding-left: 12px;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    border: 1px solid black;
-    border-radius: 8px;
+    font-size: 16px;
   }
-  
-  @media (max-width: 600px) {
-    .grid {
-      width: 100%;
-      flex-direction: column;
-    }
+
+  .letterBtn {
+    min-width: calc(100% / 7);
+    padding: 10px 4px;
   }
-  
+}

@@ -1,52 +1,6786 @@
 [
-  { "name": "Applebee's", "slug": "applebees" },
-  { "name": "Arby's", "slug": "arbys" },
-  { "name": "Baskin-Robbins", "slug": "baskin-robbins" },
-  { "name": "Buffalo Wild Wings", "slug": "buffalo-wild-wings" },
-  { "name": "Burger King", "slug": "burger-king" },
-  { "name": "Carl's Jr.", "slug": "carls-jr" },
-  { "name": "Chick-fil-A", "slug": "chick-fil-a" },
-  { "name": "Chili's", "slug": "chilis" },
-  { "name": "Chipotle Mexican Grill", "slug": "chipotle-mexican-grill" },
-  { "name": "Cold Stone Creamery", "slug": "cold-stone-creamery" },
-  { "name": "Cracker Barrel", "slug": "cracker-barrel" },
-  { "name": "Culver's", "slug": "culvers" },
-  { "name": "Dairy Queen", "slug": "dairy-queen" },
-  { "name": "Denny's", "slug": "dennys" },
-  { "name": "Domino's", "slug": "dominos" },
-  { "name": "Dunkin'", "slug": "dunkin" },
-  { "name": "Five Guys", "slug": "five-guys" },
-  { "name": "Hardee's", "slug": "hardees" },
-  { "name": "IHOP", "slug": "ihop" },
-  { "name": "In-N-Out", "slug": "in-n-out" },
-  { "name": "Jack in the Box", "slug": "jack-in-the-box" },
-  { "name": "Jamba Juice", "slug": "jamba-juice" },
-  { "name": "Jersey Mike's", "slug": "jersey-mikes" },
-  { "name": "KFC", "slug": "kfc" },
-  { "name": "Krispy Kreme", "slug": "krispy-kreme" },
-  { "name": "Little Caesars", "slug": "little-caesars" },
-  { "name": "McDonald's", "slug": "mcdonalds" },
-  { "name": "Olive Garden", "slug": "olive-garden" },
-  { "name": "Outback Steakhouse", "slug": "outback-steakhouse" },
-  { "name": "Panda Express", "slug": "panda-express" },
-  { "name": "Panera Bread", "slug": "panera-bread" },
-  { "name": "Papa John's", "slug": "papa-johns" },
-  { "name": "Pizza Hut", "slug": "pizza-hut" },
-  { "name": "Popeyes", "slug": "popeyes" },
-  { "name": "Pret A Manger", "slug": "pret-a-manger" },
-  { "name": "Quiznos", "slug": "quiznos" },
-  { "name": "Raising Cane's", "slug": "raising-canes" },
-  { "name": "Red Lobster", "slug": "red-lobster" },
-  { "name": "Sbarro", "slug": "sbarro" },
-  { "name": "Smoothie King", "slug": "smoothie-king" },
-  { "name": "Sonic", "slug": "sonic" },
-  { "name": "Starbucks", "slug": "starbucks" },
-  { "name": "Subway", "slug": "subway" },
-  { "name": "Taco Bell", "slug": "taco-bell" },
-  { "name": "TGI Friday's", "slug": "tgi-fridays" },
-  { "name": "Tim Hortons", "slug": "tim-hortons" },
-  { "name": "Wendy's", "slug": "wendys" },
-  { "name": "Whataburger", "slug": "whataburger" },
-  { "name": "Wingstop", "slug": "wingstop" },
-  { "name": "Zaxby's", "slug": "zaxbys" }
+  {
+    "name": "1001 Delights",
+    "slug": "1001-delights"
+  },
+  {
+    "name": "1st Phorm",
+    "slug": "1st-phorm"
+  },
+  {
+    "name": "1UP",
+    "slug": "1up"
+  },
+  {
+    "name": "365",
+    "slug": "365"
+  },
+  {
+    "name": "365 Everyday Value",
+    "slug": "365-everyday-value"
+  },
+  {
+    "name": "4Life",
+    "slug": "4life"
+  },
+  {
+    "name": "54th Street",
+    "slug": "54th-street"
+  },
+  {
+    "name": "7-Eleven",
+    "slug": "7-eleven"
+  },
+  {
+    "name": "99 Restaurant",
+    "slug": "99-restaurant"
+  },
+  {
+    "name": "A La Orden",
+    "slug": "a-la-orden"
+  },
+  {
+    "name": "A.C. LaRocco Pizzas",
+    "slug": "a-c-larocco-pizzas"
+  },
+  {
+    "name": "A&W",
+    "slug": "a-w"
+  },
+  {
+    "name": "ABB",
+    "slug": "abb"
+  },
+  {
+    "name": "Ace",
+    "slug": "ace"
+  },
+  {
+    "name": "ACE Bakery",
+    "slug": "ace-bakery"
+  },
+  {
+    "name": "Acme",
+    "slug": "acme"
+  },
+  {
+    "name": "Activia",
+    "slug": "activia"
+  },
+  {
+    "name": "Advocare",
+    "slug": "advocare"
+  },
+  {
+    "name": "AFC",
+    "slug": "afc"
+  },
+  {
+    "name": "Afia",
+    "slug": "afia"
+  },
+  {
+    "name": "Ajinomoto",
+    "slug": "ajinomoto"
+  },
+  {
+    "name": "Al Safa",
+    "slug": "al-safa"
+  },
+  {
+    "name": "Aladdin Bakers",
+    "slug": "aladdin-bakers"
+  },
+  {
+    "name": "Aladdin's Eatery",
+    "slug": "aladdins-eatery"
+  },
+  {
+    "name": "Alaga",
+    "slug": "alaga"
+  },
+  {
+    "name": "Alani",
+    "slug": "alani"
+  },
+  {
+    "name": "Albertsons",
+    "slug": "albertsons"
+  },
+  {
+    "name": "Alden's",
+    "slug": "aldens"
+  },
+  {
+    "name": "Aldi",
+    "slug": "aldi"
+  },
+  {
+    "name": "Alexia",
+    "slug": "alexia"
+  },
+  {
+    "name": "Alkhyam Bakery",
+    "slug": "alkhyam-bakery"
+  },
+  {
+    "name": "Alma Food",
+    "slug": "alma-food"
+  },
+  {
+    "name": "Alpha Foods",
+    "slug": "alpha-foods"
+  },
+  {
+    "name": "Always Save",
+    "slug": "always-save"
+  },
+  {
+    "name": "Amazon Cafe",
+    "slug": "amazon-cafe"
+  },
+  {
+    "name": "America's Choice",
+    "slug": "americas-choice"
+  },
+  {
+    "name": "Amigos",
+    "slug": "amigos"
+  },
+  {
+    "name": "Amnon's Kosher",
+    "slug": "amnons-kosher"
+  },
+  {
+    "name": "Amoroso's",
+    "slug": "amorosos"
+  },
+  {
+    "name": "ampm",
+    "slug": "ampm"
+  },
+  {
+    "name": "Amy's",
+    "slug": "amys"
+  },
+  {
+    "name": "Andes",
+    "slug": "andes"
+  },
+  {
+    "name": "Angelic Bakehouse",
+    "slug": "angelic-bakehouse"
+  },
+  {
+    "name": "Animal",
+    "slug": "animal"
+  },
+  {
+    "name": "Anne's",
+    "slug": "annes"
+  },
+  {
+    "name": "Annie Chun's",
+    "slug": "annie-chuns"
+  },
+  {
+    "name": "Anzio & Sons",
+    "slug": "anzio-sons"
+  },
+  {
+    "name": "Aplenty",
+    "slug": "aplenty"
+  },
+  {
+    "name": "Apollo Burger",
+    "slug": "apollo-burger"
+  },
+  {
+    "name": "Appetitos",
+    "slug": "appetitos"
+  },
+  {
+    "name": "Applebee's",
+    "slug": "applebees"
+  },
+  {
+    "name": "Aqua Star",
+    "slug": "aqua-star"
+  },
+  {
+    "name": "Aquamar",
+    "slug": "aquamar"
+  },
+  {
+    "name": "AquaStar",
+    "slug": "aquastar"
+  },
+  {
+    "name": "Aramouni's",
+    "slug": "aramounis"
+  },
+  {
+    "name": "Arby's",
+    "slug": "arbys"
+  },
+  {
+    "name": "Arctic Circle",
+    "slug": "arctic-circle"
+  },
+  {
+    "name": "Arctic Shores",
+    "slug": "arctic-shores"
+  },
+  {
+    "name": "Argo Tea",
+    "slug": "argo-tea"
+  },
+  {
+    "name": "Armadillo Willy's",
+    "slug": "armadillo-willys"
+  },
+  {
+    "name": "Armour",
+    "slug": "armour"
+  },
+  {
+    "name": "Arnold",
+    "slug": "arnold"
+  },
+  {
+    "name": "Arrowhead Mills",
+    "slug": "arrowhead-mills"
+  },
+  {
+    "name": "Artesian Acres",
+    "slug": "artesian-acres"
+  },
+  {
+    "name": "Arthur's",
+    "slug": "arthurs"
+  },
+  {
+    "name": "Artisan Fresh",
+    "slug": "artisan-fresh"
+  },
+  {
+    "name": "Artisan Hearth",
+    "slug": "artisan-hearth"
+  },
+  {
+    "name": "Asia Specialties",
+    "slug": "asia-specialties"
+  },
+  {
+    "name": "Asian Best",
+    "slug": "asian-best"
+  },
+  {
+    "name": "Asian Home Gourmet",
+    "slug": "asian-home-gourmet"
+  },
+  {
+    "name": "Asian Sensations",
+    "slug": "asian-sensations"
+  },
+  {
+    "name": "Assi",
+    "slug": "assi"
+  },
+  {
+    "name": "Astro",
+    "slug": "astro"
+  },
+  {
+    "name": "Athenos",
+    "slug": "athenos"
+  },
+  {
+    "name": "Atlanta Bread Company",
+    "slug": "atlanta-bread-company"
+  },
+  {
+    "name": "Atoria's Family Bakery",
+    "slug": "atorias-family-bakery"
+  },
+  {
+    "name": "Au Bon Pain",
+    "slug": "au-bon-pain"
+  },
+  {
+    "name": "Aunt Jemima",
+    "slug": "aunt-jemima"
+  },
+  {
+    "name": "Aunt Maple's",
+    "slug": "aunt-maples"
+  },
+  {
+    "name": "Aunt Millie's",
+    "slug": "aunt-millies"
+  },
+  {
+    "name": "Auntie Anne's Pretzels",
+    "slug": "auntie-annes-pretzels"
+  },
+  {
+    "name": "Austin Blues",
+    "slug": "austin-blues"
+  },
+  {
+    "name": "Authentic Asia",
+    "slug": "authentic-asia"
+  },
+  {
+    "name": "AVI",
+    "slug": "avi"
+  },
+  {
+    "name": "Babylon Bakery",
+    "slug": "babylon-bakery"
+  },
+  {
+    "name": "Bagger Dave's",
+    "slug": "bagger-daves"
+  },
+  {
+    "name": "Bahama Breeze",
+    "slug": "bahama-breeze"
+  },
+  {
+    "name": "BAJA",
+    "slug": "baja"
+  },
+  {
+    "name": "Baja Fresh Mexican Grill",
+    "slug": "baja-fresh-mexican-grill"
+  },
+  {
+    "name": "Baked in Brooklyn",
+    "slug": "baked-in-brooklyn"
+  },
+  {
+    "name": "Baker's Drive Thru Restaurants",
+    "slug": "bakers-drive-thru-restaurants"
+  },
+  {
+    "name": "Ball Park",
+    "slug": "ball-park"
+  },
+  {
+    "name": "Bandana's Bar-B-Q",
+    "slug": "bandanas-bar-b-q"
+  },
+  {
+    "name": "Bandi",
+    "slug": "bandi"
+  },
+  {
+    "name": "Banh Trang",
+    "slug": "banh-trang"
+  },
+  {
+    "name": "Banquet",
+    "slug": "banquet"
+  },
+  {
+    "name": "Banyan Foods",
+    "slug": "banyan-foods"
+  },
+  {
+    "name": "Banzai",
+    "slug": "banzai"
+  },
+  {
+    "name": "Bar Harbor",
+    "slug": "bar-harbor"
+  },
+  {
+    "name": "Bar-B-Cutie",
+    "slug": "bar-b-cutie"
+  },
+  {
+    "name": "Barebells",
+    "slug": "barebells"
+  },
+  {
+    "name": "Barilla",
+    "slug": "barilla"
+  },
+  {
+    "name": "Barissimo",
+    "slug": "barissimo"
+  },
+  {
+    "name": "BariWise",
+    "slug": "bariwise"
+  },
+  {
+    "name": "Barowsky's",
+    "slug": "barowskys"
+  },
+  {
+    "name": "Bartaco",
+    "slug": "bartaco"
+  },
+  {
+    "name": "Base Culture",
+    "slug": "base-culture"
+  },
+  {
+    "name": "Basha",
+    "slug": "basha"
+  },
+  {
+    "name": "Baskin-Robbins",
+    "slug": "baskin-robbins"
+  },
+  {
+    "name": "Batter Blaster",
+    "slug": "batter-blaster"
+  },
+  {
+    "name": "Bauducco",
+    "slug": "bauducco"
+  },
+  {
+    "name": "bd's Mongolian Grill",
+    "slug": "bds-mongolian-grill"
+  },
+  {
+    "name": "Beans and Brews",
+    "slug": "beans-and-brews"
+  },
+  {
+    "name": "Beaumont",
+    "slug": "beaumont"
+  },
+  {
+    "name": "Beck's Prime",
+    "slug": "becks-prime"
+  },
+  {
+    "name": "Beef 'O' Brady's",
+    "slug": "beef-o-bradys"
+  },
+  {
+    "name": "Beef A Roo",
+    "slug": "beef-a-roo"
+  },
+  {
+    "name": "Beeler's",
+    "slug": "beelers"
+  },
+  {
+    "name": "Beigel's",
+    "slug": "beigels"
+  },
+  {
+    "name": "Beksul",
+    "slug": "beksul"
+  },
+  {
+    "name": "Bell & Evans",
+    "slug": "bell-evans"
+  },
+  {
+    "name": "Belladoro",
+    "slug": "belladoro"
+  },
+  {
+    "name": "Bellatoria Pizza",
+    "slug": "bellatoria-pizza"
+  },
+  {
+    "name": "Benihana",
+    "slug": "benihana"
+  },
+  {
+    "name": "Bennigan's",
+    "slug": "bennigans"
+  },
+  {
+    "name": "Bento Nouveau",
+    "slug": "bento-nouveau"
+  },
+  {
+    "name": "Benton's",
+    "slug": "bentons"
+  },
+  {
+    "name": "Berkley & Jensen",
+    "slug": "berkley-jensen"
+  },
+  {
+    "name": "Bertolli",
+    "slug": "bertolli"
+  },
+  {
+    "name": "Bertucci's",
+    "slug": "bertuccis"
+  },
+  {
+    "name": "Best Life",
+    "slug": "best-life"
+  },
+  {
+    "name": "Best Pita",
+    "slug": "best-pita"
+  },
+  {
+    "name": "Better Bakery",
+    "slug": "better-bakery"
+  },
+  {
+    "name": "Better Made",
+    "slug": "better-made"
+  },
+  {
+    "name": "Better Valu",
+    "slug": "better-valu"
+  },
+  {
+    "name": "Bettergoods",
+    "slug": "bettergoods"
+  },
+  {
+    "name": "betterMD",
+    "slug": "bettermd"
+  },
+  {
+    "name": "Betty Baker",
+    "slug": "betty-baker"
+  },
+  {
+    "name": "Beyond Meat",
+    "slug": "beyond-meat"
+  },
+  {
+    "name": "Bfree",
+    "slug": "bfree"
+  },
+  {
+    "name": "Bibibop",
+    "slug": "bibibop"
+  },
+  {
+    "name": "Bibigo",
+    "slug": "bibigo"
+  },
+  {
+    "name": "Big Easy Foods",
+    "slug": "big-easy-foods"
+  },
+  {
+    "name": "Big Train",
+    "slug": "big-train"
+  },
+  {
+    "name": "Big Y",
+    "slug": "big-y"
+  },
+  {
+    "name": "Biggby Coffee",
+    "slug": "biggby-coffee"
+  },
+  {
+    "name": "Bill Miller Bar-B-Q",
+    "slug": "bill-miller-bar-b-q"
+  },
+  {
+    "name": "Birch Benders",
+    "slug": "birch-benders"
+  },
+  {
+    "name": "Biscuitville",
+    "slug": "biscuitville"
+  },
+  {
+    "name": "Bisquick",
+    "slug": "bisquick"
+  },
+  {
+    "name": "Bistro MD",
+    "slug": "bistro-md"
+  },
+  {
+    "name": "BJ's",
+    "slug": "bjs"
+  },
+  {
+    "name": "BJ's Restaurant & Brewhouse",
+    "slug": "bjs-restaurant-brewhouse"
+  },
+  {
+    "name": "Black Bear",
+    "slug": "black-bear"
+  },
+  {
+    "name": "Black Bear Diner",
+    "slug": "black-bear-diner"
+  },
+  {
+    "name": "Blackburn's",
+    "slug": "blackburns"
+  },
+  {
+    "name": "Blake's",
+    "slug": "blakes"
+  },
+  {
+    "name": "Blake's Lotaburger",
+    "slug": "blakes-lotaburger"
+  },
+  {
+    "name": "Blimpie",
+    "slug": "blimpie"
+  },
+  {
+    "name": "Blount",
+    "slug": "blount"
+  },
+  {
+    "name": "Blubeckers",
+    "slug": "blubeckers"
+  },
+  {
+    "name": "Blue Apron",
+    "slug": "blue-apron"
+  },
+  {
+    "name": "Blue Bird",
+    "slug": "blue-bird"
+  },
+  {
+    "name": "Blue Diamond",
+    "slug": "blue-diamond"
+  },
+  {
+    "name": "Blue Dragon",
+    "slug": "blue-dragon"
+  },
+  {
+    "name": "Blue Horizon",
+    "slug": "blue-horizon"
+  },
+  {
+    "name": "Blue Moose of Boulder",
+    "slug": "blue-moose-of-boulder"
+  },
+  {
+    "name": "Blue Plate",
+    "slug": "blue-plate"
+  },
+  {
+    "name": "Blue Ribbon",
+    "slug": "blue-ribbon"
+  },
+  {
+    "name": "Blue Sea",
+    "slug": "blue-sea"
+  },
+  {
+    "name": "Blue Star",
+    "slug": "blue-star"
+  },
+  {
+    "name": "Boar's Head",
+    "slug": "boars-head"
+  },
+  {
+    "name": "Bob Evans",
+    "slug": "bob-evans"
+  },
+  {
+    "name": "Bob's Red Mill",
+    "slug": "bobs-red-mill"
+  },
+  {
+    "name": "Bobbi's",
+    "slug": "bobbis"
+  },
+  {
+    "name": "Body Fortress",
+    "slug": "body-fortress"
+  },
+  {
+    "name": "BodyKey",
+    "slug": "bodykey"
+  },
+  {
+    "name": "BodyTech",
+    "slug": "bodytech"
+  },
+  {
+    "name": "Bojangles",
+    "slug": "bojangles"
+  },
+  {
+    "name": "Bolani",
+    "slug": "bolani"
+  },
+  {
+    "name": "Bon Appetit",
+    "slug": "bon-appetit"
+  },
+  {
+    "name": "Bonchon",
+    "slug": "bonchon"
+  },
+  {
+    "name": "Bonefish Grill",
+    "slug": "bonefish-grill"
+  },
+  {
+    "name": "Boneheads",
+    "slug": "boneheads"
+  },
+  {
+    "name": "Boston Baking",
+    "slug": "boston-baking"
+  },
+  {
+    "name": "Boston Pizza",
+    "slug": "boston-pizza"
+  },
+  {
+    "name": "Boulart",
+    "slug": "boulart"
+  },
+  {
+    "name": "Braum's",
+    "slug": "braums"
+  },
+  {
+    "name": "Brazi Bites",
+    "slug": "brazi-bites"
+  },
+  {
+    "name": "Bread Alone",
+    "slug": "bread-alone"
+  },
+  {
+    "name": "Breadway",
+    "slug": "breadway"
+  },
+  {
+    "name": "Breakfast Best",
+    "slug": "breakfast-best"
+  },
+  {
+    "name": "Bremer",
+    "slug": "bremer"
+  },
+  {
+    "name": "Brew Pub",
+    "slug": "brew-pub"
+  },
+  {
+    "name": "Bridgford",
+    "slug": "bridgford"
+  },
+  {
+    "name": "Brookdale",
+    "slug": "brookdale"
+  },
+  {
+    "name": "Brooklyn Cured",
+    "slug": "brooklyn-cured"
+  },
+  {
+    "name": "Brown & Haley",
+    "slug": "brown-haley"
+  },
+  {
+    "name": "Brownberry",
+    "slug": "brownberry"
+  },
+  {
+    "name": "BSN",
+    "slug": "bsn"
+  },
+  {
+    "name": "Bubba Burger",
+    "slug": "bubba-burger"
+  },
+  {
+    "name": "Buc-ee's",
+    "slug": "buc-ees"
+  },
+  {
+    "name": "Buffalo Wild Wings",
+    "slug": "buffalo-wild-wings"
+  },
+  {
+    "name": "Built Bar",
+    "slug": "built-bar"
+  },
+  {
+    "name": "Bumble Bee",
+    "slug": "bumble-bee"
+  },
+  {
+    "name": "Bunny Bread",
+    "slug": "bunny-bread"
+  },
+  {
+    "name": "Burger 21",
+    "slug": "burger-21"
+  },
+  {
+    "name": "Burger King",
+    "slug": "burger-king"
+  },
+  {
+    "name": "BurgerFi",
+    "slug": "burgerfi"
+  },
+  {
+    "name": "Burgermaster",
+    "slug": "burgermaster"
+  },
+  {
+    "name": "Burgerville",
+    "slug": "burgerville"
+  },
+  {
+    "name": "Busseto",
+    "slug": "busseto"
+  },
+  {
+    "name": "Butcher Box",
+    "slug": "butcher-box"
+  },
+  {
+    "name": "Butterball",
+    "slug": "butterball"
+  },
+  {
+    "name": "Butternut",
+    "slug": "butternut"
+  },
+  {
+    "name": "Butternut Bread",
+    "slug": "butternut-bread"
+  },
+  {
+    "name": "Byron's",
+    "slug": "byrons"
+  },
+  {
+    "name": "C. Wirthy & Co.",
+    "slug": "c-wirthy-co"
+  },
+  {
+    "name": "Cadia",
+    "slug": "cadia"
+  },
+  {
+    "name": "Cafe Bustelo",
+    "slug": "cafe-bustelo"
+  },
+  {
+    "name": "Cafe Escapes",
+    "slug": "cafe-escapes"
+  },
+  {
+    "name": "Cafe Valley Bakery",
+    "slug": "cafe-valley-bakery"
+  },
+  {
+    "name": "Cafe W",
+    "slug": "cafe-w"
+  },
+  {
+    "name": "Caffe D'Amore",
+    "slug": "caffe-damore"
+  },
+  {
+    "name": "Caffe D'Vita",
+    "slug": "caffe-dvita"
+  },
+  {
+    "name": "Cains",
+    "slug": "cains"
+  },
+  {
+    "name": "Cali'flour Foods",
+    "slug": "califlour-foods"
+  },
+  {
+    "name": "California Chicken Cafe",
+    "slug": "california-chicken-cafe"
+  },
+  {
+    "name": "California Fish Grill",
+    "slug": "california-fish-grill"
+  },
+  {
+    "name": "California Pizza Kitchen",
+    "slug": "california-pizza-kitchen"
+  },
+  {
+    "name": "Camille's Sidewalk Cafe",
+    "slug": "camilles-sidewalk-cafe"
+  },
+  {
+    "name": "Cape Cod",
+    "slug": "cape-cod"
+  },
+  {
+    "name": "Cape Gourmet",
+    "slug": "cape-gourmet"
+  },
+  {
+    "name": "Capriotti's",
+    "slug": "capriottis"
+  },
+  {
+    "name": "Captain D's",
+    "slug": "captain-ds"
+  },
+  {
+    "name": "Captain John Derst's",
+    "slug": "captain-john-dersts"
+  },
+  {
+    "name": "Carbonaut",
+    "slug": "carbonaut"
+  },
+  {
+    "name": "Cardinal Roadhouse",
+    "slug": "cardinal-roadhouse"
+  },
+  {
+    "name": "Caribou Coffee",
+    "slug": "caribou-coffee"
+  },
+  {
+    "name": "Carino's Italian Restaurant",
+    "slug": "carinos-italian-restaurant"
+  },
+  {
+    "name": "Carl's Jr.",
+    "slug": "carls-jr"
+  },
+  {
+    "name": "Carlos O'Kellys",
+    "slug": "carlos-okellys"
+  },
+  {
+    "name": "Carrabba's Italian Grill",
+    "slug": "carrabbas-italian-grill"
+  },
+  {
+    "name": "Casa Mamita",
+    "slug": "casa-mamita"
+  },
+  {
+    "name": "Casa Ole",
+    "slug": "casa-ole"
+  },
+  {
+    "name": "Cascade Pride",
+    "slug": "cascade-pride"
+  },
+  {
+    "name": "Casey's",
+    "slug": "caseys"
+  },
+  {
+    "name": "Catelli",
+    "slug": "catelli"
+  },
+  {
+    "name": "Cauldron Foods",
+    "slug": "cauldron-foods"
+  },
+  {
+    "name": "Caulipower",
+    "slug": "caulipower"
+  },
+  {
+    "name": "Cava",
+    "slug": "cava"
+  },
+  {
+    "name": "Cava Mezze",
+    "slug": "cava-mezze"
+  },
+  {
+    "name": "Cedar Lake",
+    "slug": "cedar-lake"
+  },
+  {
+    "name": "Cedar Phoenicia",
+    "slug": "cedar-phoenicia"
+  },
+  {
+    "name": "Cedar Valley",
+    "slug": "cedar-valley"
+  },
+  {
+    "name": "Cedar's",
+    "slug": "cedars"
+  },
+  {
+    "name": "Cento",
+    "slug": "cento"
+  },
+  {
+    "name": "Champps",
+    "slug": "champps"
+  },
+  {
+    "name": "Charleston's",
+    "slug": "charlestons"
+  },
+  {
+    "name": "Charley's Grilled Subs",
+    "slug": "charleys-grilled-subs"
+  },
+  {
+    "name": "Cheating Gourmet",
+    "slug": "cheating-gourmet"
+  },
+  {
+    "name": "Checkers",
+    "slug": "checkers"
+  },
+  {
+    "name": "Cheddar's",
+    "slug": "cheddars"
+  },
+  {
+    "name": "Cheeburger Cheeburger",
+    "slug": "cheeburger-cheeburger"
+  },
+  {
+    "name": "Cheesecake Factory",
+    "slug": "cheesecake-factory"
+  },
+  {
+    "name": "Cheesewich",
+    "slug": "cheesewich"
+  },
+  {
+    "name": "Chef Boyardee",
+    "slug": "chef-boyardee"
+  },
+  {
+    "name": "Chef One",
+    "slug": "chef-one"
+  },
+  {
+    "name": "Chef Select",
+    "slug": "chef-select"
+  },
+  {
+    "name": "Chef Woo",
+    "slug": "chef-woo"
+  },
+  {
+    "name": "Chef's Cupboard",
+    "slug": "chefs-cupboard"
+  },
+  {
+    "name": "ChefJet",
+    "slug": "chefjet"
+  },
+  {
+    "name": "Chevy's Fresh Mex",
+    "slug": "chevys-fresh-mex"
+  },
+  {
+    "name": "Chi-Chi's",
+    "slug": "chi-chis"
+  },
+  {
+    "name": "Chick-fil-A",
+    "slug": "chick-fil-a"
+  },
+  {
+    "name": "Chicken Express",
+    "slug": "chicken-express"
+  },
+  {
+    "name": "Chicken of the Sea",
+    "slug": "chicken-of-the-sea"
+  },
+  {
+    "name": "Chicken Pound",
+    "slug": "chicken-pound"
+  },
+  {
+    "name": "Chicken Salad Chick",
+    "slug": "chicken-salad-chick"
+  },
+  {
+    "name": "Chili's",
+    "slug": "chilis"
+  },
+  {
+    "name": "Chillycow",
+    "slug": "chillycow"
+  },
+  {
+    "name": "Chinese Brand",
+    "slug": "chinese-brand"
+  },
+  {
+    "name": "Ching Kee",
+    "slug": "ching-kee"
+  },
+  {
+    "name": "Chipotle Mexican Grill",
+    "slug": "chipotle-mexican-grill"
+  },
+  {
+    "name": "Cholula",
+    "slug": "cholula"
+  },
+  {
+    "name": "Chop't",
+    "slug": "chopt"
+  },
+  {
+    "name": "Chuck E. Cheese's",
+    "slug": "chuck-e-cheeses"
+  },
+  {
+    "name": "Chung's",
+    "slug": "chungs"
+  },
+  {
+    "name": "Church's Chicken",
+    "slug": "churchs-chicken"
+  },
+  {
+    "name": "Chuy's",
+    "slug": "chuys"
+  },
+  {
+    "name": "CiCi's Pizza",
+    "slug": "cicis-pizza"
+  },
+  {
+    "name": "Cinnabon",
+    "slug": "cinnabon"
+  },
+  {
+    "name": "Circle K",
+    "slug": "circle-k"
+  },
+  {
+    "name": "Citrucel",
+    "slug": "citrucel"
+  },
+  {
+    "name": "City Barbeque",
+    "slug": "city-barbeque"
+  },
+  {
+    "name": "CJ",
+    "slug": "cj"
+  },
+  {
+    "name": "CJ Foods",
+    "slug": "cj-foods"
+  },
+  {
+    "name": "Claim Jumper Restaurant",
+    "slug": "claim-jumper-restaurant"
+  },
+  {
+    "name": "Clancy's",
+    "slug": "clancys"
+  },
+  {
+    "name": "Claxton",
+    "slug": "claxton"
+  },
+  {
+    "name": "Clean Eatz",
+    "slug": "clean-eatz"
+  },
+  {
+    "name": "Clean Simple Eats",
+    "slug": "clean-simple-eats"
+  },
+  {
+    "name": "Clover Valley",
+    "slug": "clover-valley"
+  },
+  {
+    "name": "Clyde's Donuts",
+    "slug": "clydes-donuts"
+  },
+  {
+    "name": "CMWL",
+    "slug": "cmwl"
+  },
+  {
+    "name": "Coast to Coast",
+    "slug": "coast-to-coast"
+  },
+  {
+    "name": "Cobblestone Mill",
+    "slug": "cobblestone-mill"
+  },
+  {
+    "name": "Coca-Cola",
+    "slug": "coca-cola"
+  },
+  {
+    "name": "Coffee Bean",
+    "slug": "coffee-bean"
+  },
+  {
+    "name": "Coffee Beanery",
+    "slug": "coffee-beanery"
+  },
+  {
+    "name": "Colcafe",
+    "slug": "colcafe"
+  },
+  {
+    "name": "Cold Stone Creamery",
+    "slug": "cold-stone-creamery"
+  },
+  {
+    "name": "Coleson's Catch",
+    "slug": "colesons-catch"
+  },
+  {
+    "name": "Colombo",
+    "slug": "colombo"
+  },
+  {
+    "name": "Community Coffee",
+    "slug": "community-coffee"
+  },
+  {
+    "name": "Compliments",
+    "slug": "compliments"
+  },
+  {
+    "name": "Contadina",
+    "slug": "contadina"
+  },
+  {
+    "name": "Contessa",
+    "slug": "contessa"
+  },
+  {
+    "name": "Cook Unity",
+    "slug": "cook-unity"
+  },
+  {
+    "name": "Cookies",
+    "slug": "cookies"
+  },
+  {
+    "name": "CookOut",
+    "slug": "cookout"
+  },
+  {
+    "name": "Core",
+    "slug": "core"
+  },
+  {
+    "name": "Corky's BBQ",
+    "slug": "corkys-bbq"
+  },
+  {
+    "name": "Corner Bakery Cafe",
+    "slug": "corner-bakery-cafe"
+  },
+  {
+    "name": "Cosi",
+    "slug": "cosi"
+  },
+  {
+    "name": "CosMc's",
+    "slug": "cosmcs"
+  },
+  {
+    "name": "Costco",
+    "slug": "costco"
+  },
+  {
+    "name": "Cottage Inn",
+    "slug": "cottage-inn"
+  },
+  {
+    "name": "Cotton Patch Cafe",
+    "slug": "cotton-patch-cafe"
+  },
+  {
+    "name": "Cowboy Chicken",
+    "slug": "cowboy-chicken"
+  },
+  {
+    "name": "Coyote Grill",
+    "slug": "coyote-grill"
+  },
+  {
+    "name": "Cozy Harbor",
+    "slug": "cozy-harbor"
+  },
+  {
+    "name": "CP Products",
+    "slug": "cp-products"
+  },
+  {
+    "name": "Cracker Barrel",
+    "slug": "cracker-barrel"
+  },
+  {
+    "name": "Cracker Barrel Old Country Store",
+    "slug": "cracker-barrel-old-country-store"
+  },
+  {
+    "name": "Cracovia",
+    "slug": "cracovia"
+  },
+  {
+    "name": "Crazy Bowls & Wraps",
+    "slug": "crazy-bowls-wraps"
+  },
+  {
+    "name": "Crazy Cuizine",
+    "slug": "crazy-cuizine"
+  },
+  {
+    "name": "Crazy Pita",
+    "slug": "crazy-pita"
+  },
+  {
+    "name": "Creamette",
+    "slug": "creamette"
+  },
+  {
+    "name": "Crepini",
+    "slug": "crepini"
+  },
+  {
+    "name": "Crescent Foods",
+    "slug": "crescent-foods"
+  },
+  {
+    "name": "Crisp and Green",
+    "slug": "crisp-and-green"
+  },
+  {
+    "name": "Crumbl Cookies",
+    "slug": "crumbl-cookies"
+  },
+  {
+    "name": "Cruz",
+    "slug": "cruz"
+  },
+  {
+    "name": "CSN",
+    "slug": "csn"
+  },
+  {
+    "name": "Cub Foods",
+    "slug": "cub-foods"
+  },
+  {
+    "name": "Cugino's",
+    "slug": "cuginos"
+  },
+  {
+    "name": "Cuisine Adventures",
+    "slug": "cuisine-adventures"
+  },
+  {
+    "name": "Cuisine de France",
+    "slug": "cuisine-de-france"
+  },
+  {
+    "name": "Culver's",
+    "slug": "culvers"
+  },
+  {
+    "name": "D'angelo",
+    "slug": "dangelo"
+  },
+  {
+    "name": "Dac Biet",
+    "slug": "dac-biet"
+  },
+  {
+    "name": "Dagim",
+    "slug": "dagim"
+  },
+  {
+    "name": "Daily Chef",
+    "slug": "daily-chef"
+  },
+  {
+    "name": "Daily Harvest",
+    "slug": "daily-harvest"
+  },
+  {
+    "name": "Dairy Queen",
+    "slug": "dairy-queen"
+  },
+  {
+    "name": "Daiya",
+    "slug": "daiya"
+  },
+  {
+    "name": "Damascus Bakeries",
+    "slug": "damascus-bakeries"
+  },
+  {
+    "name": "Dannon",
+    "slug": "dannon"
+  },
+  {
+    "name": "Daphne's Greek Cafe",
+    "slug": "daphnes-greek-cafe"
+  },
+  {
+    "name": "Dashing Dish",
+    "slug": "dashing-dish"
+  },
+  {
+    "name": "Davanni's",
+    "slug": "davannis"
+  },
+  {
+    "name": "Dave's Killer Bread",
+    "slug": "daves-killer-bread"
+  },
+  {
+    "name": "Davio's",
+    "slug": "davios"
+  },
+  {
+    "name": "Daybreak Classics",
+    "slug": "daybreak-classics"
+  },
+  {
+    "name": "Daylight Donuts",
+    "slug": "daylight-donuts"
+  },
+  {
+    "name": "De Cecco",
+    "slug": "de-cecco"
+  },
+  {
+    "name": "De Wafelbakkers",
+    "slug": "de-wafelbakkers"
+  },
+  {
+    "name": "Dean's Country Fresh",
+    "slug": "deans-country-fresh"
+  },
+  {
+    "name": "Deep",
+    "slug": "deep"
+  },
+  {
+    "name": "Del Monte",
+    "slug": "del-monte"
+  },
+  {
+    "name": "Del Taco",
+    "slug": "del-taco"
+  },
+  {
+    "name": "Deli Express",
+    "slug": "deli-express"
+  },
+  {
+    "name": "Delicious Greens 8000",
+    "slug": "delicious-greens-8000"
+  },
+  {
+    "name": "Dempster's",
+    "slug": "dempsters"
+  },
+  {
+    "name": "Denny's",
+    "slug": "dennys"
+  },
+  {
+    "name": "Deseret",
+    "slug": "deseret"
+  },
+  {
+    "name": "Devanco Foods",
+    "slug": "devanco-foods"
+  },
+  {
+    "name": "Devour",
+    "slug": "devour"
+  },
+  {
+    "name": "DeWafelbakkers",
+    "slug": "dewafelbakkers"
+  },
+  {
+    "name": "Dibella's",
+    "slug": "dibellas"
+  },
+  {
+    "name": "Dickey's Barbecue",
+    "slug": "dickeys-barbecue"
+  },
+  {
+    "name": "Diet to Go",
+    "slug": "diet-to-go"
+  },
+  {
+    "name": "Dietz & Watson",
+    "slug": "dietz-watson"
+  },
+  {
+    "name": "DiGiorno",
+    "slug": "digiorno"
+  },
+  {
+    "name": "Dim Sum",
+    "slug": "dim-sum"
+  },
+  {
+    "name": "Din Tai Fung",
+    "slug": "din-tai-fung"
+  },
+  {
+    "name": "Dinner Done",
+    "slug": "dinner-done"
+  },
+  {
+    "name": "Dino's The Greek Place",
+    "slug": "dinos-the-greek-place"
+  },
+  {
+    "name": "Dion's",
+    "slug": "dions"
+  },
+  {
+    "name": "Dixie Carb Counters",
+    "slug": "dixie-carb-counters"
+  },
+  {
+    "name": "Dockside Classics",
+    "slug": "dockside-classics"
+  },
+  {
+    "name": "Dole",
+    "slug": "dole"
+  },
+  {
+    "name": "Dominex",
+    "slug": "dominex"
+  },
+  {
+    "name": "Dominic's",
+    "slug": "dominics"
+  },
+  {
+    "name": "Domino's Pizza",
+    "slug": "dominos-pizza"
+  },
+  {
+    "name": "Don Miguel",
+    "slug": "don-miguel"
+  },
+  {
+    "name": "Donatos Pizzeria",
+    "slug": "donatos-pizzeria"
+  },
+  {
+    "name": "Donut Shop",
+    "slug": "donut-shop"
+  },
+  {
+    "name": "Dorothy Lynch",
+    "slug": "dorothy-lynch"
+  },
+  {
+    "name": "Double B",
+    "slug": "double-b"
+  },
+  {
+    "name": "Dr. McDougall's Right Foods",
+    "slug": "dr-mcdougalls-right-foods"
+  },
+  {
+    "name": "Dream Dinners",
+    "slug": "dream-dinners"
+  },
+  {
+    "name": "Dreamland",
+    "slug": "dreamland"
+  },
+  {
+    "name": "Duchess",
+    "slug": "duchess"
+  },
+  {
+    "name": "Duck Donuts",
+    "slug": "duck-donuts"
+  },
+  {
+    "name": "Duke's",
+    "slug": "dukes"
+  },
+  {
+    "name": "Dumpling Daughter",
+    "slug": "dumpling-daughter"
+  },
+  {
+    "name": "Duncan Hines",
+    "slug": "duncan-hines"
+  },
+  {
+    "name": "Dunkin' Donuts",
+    "slug": "dunkin-donuts"
+  },
+  {
+    "name": "Duplin",
+    "slug": "duplin"
+  },
+  {
+    "name": "Dutch Bros.",
+    "slug": "dutch-bros"
+  },
+  {
+    "name": "Dynasty",
+    "slug": "dynasty"
+  },
+  {
+    "name": "Earls",
+    "slug": "earls"
+  },
+  {
+    "name": "Earth Burger",
+    "slug": "earth-burger"
+  },
+  {
+    "name": "Earth Grown",
+    "slug": "earth-grown"
+  },
+  {
+    "name": "Earth Grown Vegan",
+    "slug": "earth-grown-vegan"
+  },
+  {
+    "name": "Earth's Best",
+    "slug": "earths-best"
+  },
+  {
+    "name": "EarthGrains",
+    "slug": "earthgrains"
+  },
+  {
+    "name": "East Side Mario's",
+    "slug": "east-side-marios"
+  },
+  {
+    "name": "EastWest Cuisine",
+    "slug": "eastwest-cuisine"
+  },
+  {
+    "name": "Eat Clean Bro",
+    "slug": "eat-clean-bro"
+  },
+  {
+    "name": "Eat Fit Go",
+    "slug": "eat-fit-go"
+  },
+  {
+    "name": "Eat Smart",
+    "slug": "eat-smart"
+  },
+  {
+    "name": "Eat Well Embrace Life",
+    "slug": "eat-well-embrace-life"
+  },
+  {
+    "name": "Eat Well Enjoy Life",
+    "slug": "eat-well-enjoy-life"
+  },
+  {
+    "name": "Eat'n Park",
+    "slug": "eatn-park"
+  },
+  {
+    "name": "Eating Right",
+    "slug": "eating-right"
+  },
+  {
+    "name": "Eating Well",
+    "slug": "eating-well"
+  },
+  {
+    "name": "Ecce Panis",
+    "slug": "ecce-panis"
+  },
+  {
+    "name": "EconoMax",
+    "slug": "economax"
+  },
+  {
+    "name": "Edo Japan",
+    "slug": "edo-japan"
+  },
+  {
+    "name": "Eegee's",
+    "slug": "eegees"
+  },
+  {
+    "name": "Egglife",
+    "slug": "egglife"
+  },
+  {
+    "name": "Eggo",
+    "slug": "eggo"
+  },
+  {
+    "name": "El Charrito",
+    "slug": "el-charrito"
+  },
+  {
+    "name": "El Comal",
+    "slug": "el-comal"
+  },
+  {
+    "name": "El Monterey",
+    "slug": "el-monterey"
+  },
+  {
+    "name": "El Pato",
+    "slug": "el-pato"
+  },
+  {
+    "name": "El Super Leon",
+    "slug": "el-super-leon"
+  },
+  {
+    "name": "El Torito",
+    "slug": "el-torito"
+  },
+  {
+    "name": "Elevate",
+    "slug": "elevate"
+  },
+  {
+    "name": "Elevation Burger",
+    "slug": "elevation-burger"
+  },
+  {
+    "name": "Elite Sweets",
+    "slug": "elite-sweets"
+  },
+  {
+    "name": "Emerald City Smoothie",
+    "slug": "emerald-city-smoothie"
+  },
+  {
+    "name": "Emmi",
+    "slug": "emmi"
+  },
+  {
+    "name": "Enlightened",
+    "slug": "enlightened"
+  },
+  {
+    "name": "Ensure",
+    "slug": "ensure"
+  },
+  {
+    "name": "Entenmann's",
+    "slug": "entenmanns"
+  },
+  {
+    "name": "Erik's Delicafe",
+    "slug": "eriks-delicafe"
+  },
+  {
+    "name": "Essence of Lotus",
+    "slug": "essence-of-lotus"
+  },
+  {
+    "name": "Evergreen",
+    "slug": "evergreen"
+  },
+  {
+    "name": "Everyplate",
+    "slug": "everyplate"
+  },
+  {
+    "name": "Evive",
+    "slug": "evive"
+  },
+  {
+    "name": "Evol",
+    "slug": "evol"
+  },
+  {
+    "name": "Evox",
+    "slug": "evox"
+  },
+  {
+    "name": "Excelline",
+    "slug": "excelline"
+  },
+  {
+    "name": "Extreme Pita",
+    "slug": "extreme-pita"
+  },
+  {
+    "name": "F'real",
+    "slug": "freal"
+  },
+  {
+    "name": "Factor",
+    "slug": "factor"
+  },
+  {
+    "name": "Fairlife",
+    "slug": "fairlife"
+  },
+  {
+    "name": "Falafel King",
+    "slug": "falafel-king"
+  },
+  {
+    "name": "Falafel Republic",
+    "slug": "falafel-republic"
+  },
+  {
+    "name": "Falafelim",
+    "slug": "falafelim"
+  },
+  {
+    "name": "Famoso",
+    "slug": "famoso"
+  },
+  {
+    "name": "Famous Dave's",
+    "slug": "famous-daves"
+  },
+  {
+    "name": "Fantastic Foods",
+    "slug": "fantastic-foods"
+  },
+  {
+    "name": "Far East Foods",
+    "slug": "far-east-foods"
+  },
+  {
+    "name": "Fareway",
+    "slug": "fareway"
+  },
+  {
+    "name": "Fatburger",
+    "slug": "fatburger"
+  },
+  {
+    "name": "Fatz Cafe",
+    "slug": "fatz-cafe"
+  },
+  {
+    "name": "Favorite Day Bakery",
+    "slug": "favorite-day-bakery"
+  },
+  {
+    "name": "Fazoli's",
+    "slug": "fazolis"
+  },
+  {
+    "name": "Feel Good Foods",
+    "slug": "feel-good-foods"
+  },
+  {
+    "name": "Festival Foods",
+    "slug": "festival-foods"
+  },
+  {
+    "name": "Fiber One",
+    "slug": "fiber-one"
+  },
+  {
+    "name": "Field",
+    "slug": "field"
+  },
+  {
+    "name": "Field Roast",
+    "slug": "field-roast"
+  },
+  {
+    "name": "Figaro's Pizza",
+    "slug": "figaros-pizza"
+  },
+  {
+    "name": "Filiberto's",
+    "slug": "filibertos"
+  },
+  {
+    "name": "Fillo Factory",
+    "slug": "fillo-factory"
+  },
+  {
+    "name": "Fiorucci",
+    "slug": "fiorucci"
+  },
+  {
+    "name": "Firebirds",
+    "slug": "firebirds"
+  },
+  {
+    "name": "Firehouse Subs",
+    "slug": "firehouse-subs"
+  },
+  {
+    "name": "First Street",
+    "slug": "first-street"
+  },
+  {
+    "name": "First Watch",
+    "slug": "first-watch"
+  },
+  {
+    "name": "Fisher",
+    "slug": "fisher"
+  },
+  {
+    "name": "Fisherman's Wharf",
+    "slug": "fishermans-wharf"
+  },
+  {
+    "name": "Fit & Active",
+    "slug": "fit-active"
+  },
+  {
+    "name": "Fit Crunch",
+    "slug": "fit-crunch"
+  },
+  {
+    "name": "Fitlife Foods",
+    "slug": "fitlife-foods"
+  },
+  {
+    "name": "Five Guys",
+    "slug": "five-guys"
+  },
+  {
+    "name": "Flat Tummy",
+    "slug": "flat-tummy"
+  },
+  {
+    "name": "Flatout",
+    "slug": "flatout"
+  },
+  {
+    "name": "Flav-R-Pac",
+    "slug": "flav-r-pac"
+  },
+  {
+    "name": "Flavorite",
+    "slug": "flavorite"
+  },
+  {
+    "name": "FlexPro",
+    "slug": "flexpro"
+  },
+  {
+    "name": "Flora",
+    "slug": "flora"
+  },
+  {
+    "name": "Flower Child",
+    "slug": "flower-child"
+  },
+  {
+    "name": "Folgers",
+    "slug": "folgers"
+  },
+  {
+    "name": "Folios",
+    "slug": "folios"
+  },
+  {
+    "name": "Fontaine Sante",
+    "slug": "fontaine-sante"
+  },
+  {
+    "name": "Food Club",
+    "slug": "food-club"
+  },
+  {
+    "name": "Food For Life Supreme",
+    "slug": "food-for-life-supreme"
+  },
+  {
+    "name": "Food Lion",
+    "slug": "food-lion"
+  },
+  {
+    "name": "Foodtown",
+    "slug": "foodtown"
+  },
+  {
+    "name": "Formosa",
+    "slug": "formosa"
+  },
+  {
+    "name": "Fortune",
+    "slug": "fortune"
+  },
+  {
+    "name": "Fortune Avenue",
+    "slug": "fortune-avenue"
+  },
+  {
+    "name": "Fountain of Health",
+    "slug": "fountain-of-health"
+  },
+  {
+    "name": "Four Sigmatic",
+    "slug": "four-sigmatic"
+  },
+  {
+    "name": "Fractured Prune",
+    "slug": "fractured-prune"
+  },
+  {
+    "name": "Francis Mediterranean Bakery",
+    "slug": "francis-mediterranean-bakery"
+  },
+  {
+    "name": "Francisco International",
+    "slug": "francisco-international"
+  },
+  {
+    "name": "Franz",
+    "slug": "franz"
+  },
+  {
+    "name": "Franzeluta",
+    "slug": "franzeluta"
+  },
+  {
+    "name": "Fred Meyer",
+    "slug": "fred-meyer"
+  },
+  {
+    "name": "Freebirds",
+    "slug": "freebirds"
+  },
+  {
+    "name": "Fremont",
+    "slug": "fremont"
+  },
+  {
+    "name": "Frescados",
+    "slug": "frescados"
+  },
+  {
+    "name": "Freschetta",
+    "slug": "freschetta"
+  },
+  {
+    "name": "Frescos",
+    "slug": "frescos"
+  },
+  {
+    "name": "Fresh & Easy",
+    "slug": "fresh-easy"
+  },
+  {
+    "name": "Fresh City",
+    "slug": "fresh-city"
+  },
+  {
+    "name": "Fresh Creative Foods",
+    "slug": "fresh-creative-foods"
+  },
+  {
+    "name": "Fresh Direct",
+    "slug": "fresh-direct"
+  },
+  {
+    "name": "Fresh Express",
+    "slug": "fresh-express"
+  },
+  {
+    "name": "Fresh Gourmet",
+    "slug": "fresh-gourmet"
+  },
+  {
+    "name": "Fresh To Order",
+    "slug": "fresh-to-order"
+  },
+  {
+    "name": "Fresh-2go",
+    "slug": "fresh-2go"
+  },
+  {
+    "name": "Fresh'n Easy",
+    "slug": "freshn-easy"
+  },
+  {
+    "name": "Freshens",
+    "slug": "freshens"
+  },
+  {
+    "name": "Freshii",
+    "slug": "freshii"
+  },
+  {
+    "name": "Freshly",
+    "slug": "freshly"
+  },
+  {
+    "name": "Frieda's",
+    "slug": "friedas"
+  },
+  {
+    "name": "Friendly's",
+    "slug": "friendlys"
+  },
+  {
+    "name": "Frigo",
+    "slug": "frigo"
+  },
+  {
+    "name": "Frontera",
+    "slug": "frontera"
+  },
+  {
+    "name": "Frozen Bean",
+    "slug": "frozen-bean"
+  },
+  {
+    "name": "Fruitlove",
+    "slug": "fruitlove"
+  },
+  {
+    "name": "Frusion",
+    "slug": "frusion"
+  },
+  {
+    "name": "Fuddruckers",
+    "slug": "fuddruckers"
+  },
+  {
+    "name": "Fuel For Fire",
+    "slug": "fuel-for-fire"
+  },
+  {
+    "name": "Fuel Meals",
+    "slug": "fuel-meals"
+  },
+  {
+    "name": "Fujisan",
+    "slug": "fujisan"
+  },
+  {
+    "name": "Full Circle",
+    "slug": "full-circle"
+  },
+  {
+    "name": "Fusia",
+    "slug": "fusia"
+  },
+  {
+    "name": "Fuzzy's Taco Shop",
+    "slug": "fuzzys-taco-shop"
+  },
+  {
+    "name": "G6 Sports",
+    "slug": "g6-sports"
+  },
+  {
+    "name": "Gandolfo's",
+    "slug": "gandolfos"
+  },
+  {
+    "name": "Garbanzo Mediterranean Grill",
+    "slug": "garbanzo-mediterranean-grill"
+  },
+  {
+    "name": "Gardein",
+    "slug": "gardein"
+  },
+  {
+    "name": "Garden Fresh Gourmet",
+    "slug": "garden-fresh-gourmet"
+  },
+  {
+    "name": "Garden Fresh Mediterranean",
+    "slug": "garden-fresh-mediterranean"
+  },
+  {
+    "name": "Garofalo",
+    "slug": "garofalo"
+  },
+  {
+    "name": "Gebhardt",
+    "slug": "gebhardt"
+  },
+  {
+    "name": "Gedney",
+    "slug": "gedney"
+  },
+  {
+    "name": "Gefen",
+    "slug": "gefen"
+  },
+  {
+    "name": "Geisha",
+    "slug": "geisha"
+  },
+  {
+    "name": "Gem Ravioli",
+    "slug": "gem-ravioli"
+  },
+  {
+    "name": "General Foods",
+    "slug": "general-foods"
+  },
+  {
+    "name": "General Foods International",
+    "slug": "general-foods-international"
+  },
+  {
+    "name": "Genghis Grill",
+    "slug": "genghis-grill"
+  },
+  {
+    "name": "Genji",
+    "slug": "genji"
+  },
+  {
+    "name": "Genuine Steak House Brand",
+    "slug": "genuine-steak-house-brand"
+  },
+  {
+    "name": "George's Bakery",
+    "slug": "georges-bakery"
+  },
+  {
+    "name": "Gerber",
+    "slug": "gerber"
+  },
+  {
+    "name": "GetGo",
+    "slug": "getgo"
+  },
+  {
+    "name": "GFS",
+    "slug": "gfs"
+  },
+  {
+    "name": "Ghirardelli",
+    "slug": "ghirardelli"
+  },
+  {
+    "name": "Giant Eagle",
+    "slug": "giant-eagle"
+  },
+  {
+    "name": "Giant Food",
+    "slug": "giant-food"
+  },
+  {
+    "name": "Gifford's",
+    "slug": "giffords"
+  },
+  {
+    "name": "Ginger Evans",
+    "slug": "ginger-evans"
+  },
+  {
+    "name": "Giordano's",
+    "slug": "giordanos"
+  },
+  {
+    "name": "Giovanni Rana",
+    "slug": "giovanni-rana"
+  },
+  {
+    "name": "Global Bakeries",
+    "slug": "global-bakeries"
+  },
+  {
+    "name": "Gloria",
+    "slug": "gloria"
+  },
+  {
+    "name": "Gloria Jean's Coffees",
+    "slug": "gloria-jeans-coffees"
+  },
+  {
+    "name": "Gnarly",
+    "slug": "gnarly"
+  },
+  {
+    "name": "GNC",
+    "slug": "gnc"
+  },
+  {
+    "name": "Godfather's Pizza",
+    "slug": "godfathers-pizza"
+  },
+  {
+    "name": "Godiva",
+    "slug": "godiva"
+  },
+  {
+    "name": "Gold Emblem",
+    "slug": "gold-emblem"
+  },
+  {
+    "name": "Gold Medal",
+    "slug": "gold-medal"
+  },
+  {
+    "name": "Gold Star Seafood",
+    "slug": "gold-star-seafood"
+  },
+  {
+    "name": "Golden",
+    "slug": "golden"
+  },
+  {
+    "name": "Golden Acres",
+    "slug": "golden-acres"
+  },
+  {
+    "name": "Golden Chick",
+    "slug": "golden-chick"
+  },
+  {
+    "name": "Golden Corral",
+    "slug": "golden-corral"
+  },
+  {
+    "name": "Golden Platter",
+    "slug": "golden-platter"
+  },
+  {
+    "name": "Goldilocks",
+    "slug": "goldilocks"
+  },
+  {
+    "name": "Good & Gather",
+    "slug": "good-gather"
+  },
+  {
+    "name": "Good & Smart",
+    "slug": "good-smart"
+  },
+  {
+    "name": "Good 2 Go",
+    "slug": "good-2-go"
+  },
+  {
+    "name": "Good Bread",
+    "slug": "good-bread"
+  },
+  {
+    "name": "Good Dee's",
+    "slug": "good-dees"
+  },
+  {
+    "name": "Good Food Made Simple",
+    "slug": "good-food-made-simple"
+  },
+  {
+    "name": "Good Humor",
+    "slug": "good-humor"
+  },
+  {
+    "name": "Good Times",
+    "slug": "good-times"
+  },
+  {
+    "name": "Goodie Girl",
+    "slug": "goodie-girl"
+  },
+  {
+    "name": "Goose's",
+    "slug": "gooses"
+  },
+  {
+    "name": "GoPicnic",
+    "slug": "gopicnic"
+  },
+  {
+    "name": "Gorton's",
+    "slug": "gortons"
+  },
+  {
+    "name": "Gourmet Barista",
+    "slug": "gourmet-barista"
+  },
+  {
+    "name": "Gourmet Dining",
+    "slug": "gourmet-dining"
+  },
+  {
+    "name": "Goya",
+    "slug": "goya"
+  },
+  {
+    "name": "Grainful",
+    "slug": "grainful"
+  },
+  {
+    "name": "Grand Krust",
+    "slug": "grand-krust"
+  },
+  {
+    "name": "Grandessa",
+    "slug": "grandessa"
+  },
+  {
+    "name": "Grandma's Perogies",
+    "slug": "grandmas-perogies"
+  },
+  {
+    "name": "Grandy's",
+    "slug": "grandys"
+  },
+  {
+    "name": "Granite City",
+    "slug": "granite-city"
+  },
+  {
+    "name": "Graze",
+    "slug": "graze"
+  },
+  {
+    "name": "Great American",
+    "slug": "great-american"
+  },
+  {
+    "name": "Great American Deli",
+    "slug": "great-american-deli"
+  },
+  {
+    "name": "Great American Seafood",
+    "slug": "great-american-seafood"
+  },
+  {
+    "name": "Great Grains Bakery",
+    "slug": "great-grains-bakery"
+  },
+  {
+    "name": "Great Steak & Potato Company",
+    "slug": "great-steak-potato-company"
+  },
+  {
+    "name": "Great Wraps",
+    "slug": "great-wraps"
+  },
+  {
+    "name": "Green Burrito",
+    "slug": "green-burrito"
+  },
+  {
+    "name": "Green Giant",
+    "slug": "green-giant"
+  },
+  {
+    "name": "Green Mountain Coffee",
+    "slug": "green-mountain-coffee"
+  },
+  {
+    "name": "Guaranteed Value",
+    "slug": "guaranteed-value"
+  },
+  {
+    "name": "Guiltless Gourmet",
+    "slug": "guiltless-gourmet"
+  },
+  {
+    "name": "Gulf Shrimp",
+    "slug": "gulf-shrimp"
+  },
+  {
+    "name": "Gyroville",
+    "slug": "gyroville"
+  },
+  {
+    "name": "H.K. Anderson",
+    "slug": "h-k-anderson"
+  },
+  {
+    "name": "Habit Burger",
+    "slug": "habit-burger"
+  },
+  {
+    "name": "Haddon House",
+    "slug": "haddon-house"
+  },
+  {
+    "name": "HAIO",
+    "slug": "haio"
+  },
+  {
+    "name": "Haioreum",
+    "slug": "haioreum"
+  },
+  {
+    "name": "Haitai",
+    "slug": "haitai"
+  },
+  {
+    "name": "Hakubaku",
+    "slug": "hakubaku"
+  },
+  {
+    "name": "Halal Guys",
+    "slug": "halal-guys"
+  },
+  {
+    "name": "Haldiram's",
+    "slug": "haldirams"
+  },
+  {
+    "name": "Halo Burger",
+    "slug": "halo-burger"
+  },
+  {
+    "name": "Halo Top Creamery",
+    "slug": "halo-top-creamery"
+  },
+  {
+    "name": "Halwani Bros",
+    "slug": "halwani-bros"
+  },
+  {
+    "name": "Handy",
+    "slug": "handy"
+  },
+  {
+    "name": "Hangry Meal Prep",
+    "slug": "hangry-meal-prep"
+  },
+  {
+    "name": "Hannaford",
+    "slug": "hannaford"
+  },
+  {
+    "name": "Hannah",
+    "slug": "hannah"
+  },
+  {
+    "name": "Happi Foodi",
+    "slug": "happi-foodi"
+  },
+  {
+    "name": "Happi House",
+    "slug": "happi-house"
+  },
+  {
+    "name": "Happy Pho",
+    "slug": "happy-pho"
+  },
+  {
+    "name": "Happy Planet",
+    "slug": "happy-planet"
+  },
+  {
+    "name": "Hardee's",
+    "slug": "hardees"
+  },
+  {
+    "name": "Harina PAN",
+    "slug": "harina-pan"
+  },
+  {
+    "name": "Harmless Harvest",
+    "slug": "harmless-harvest"
+  },
+  {
+    "name": "Harmons",
+    "slug": "harmons"
+  },
+  {
+    "name": "Harris Teeter",
+    "slug": "harris-teeter"
+  },
+  {
+    "name": "Harry London",
+    "slug": "harry-london"
+  },
+  {
+    "name": "Hart",
+    "slug": "hart"
+  },
+  {
+    "name": "Harvest",
+    "slug": "harvest"
+  },
+  {
+    "name": "Harvest Hill",
+    "slug": "harvest-hill"
+  },
+  {
+    "name": "Harvest of the Sea",
+    "slug": "harvest-of-the-sea"
+  },
+  {
+    "name": "Harvest Select",
+    "slug": "harvest-select"
+  },
+  {
+    "name": "Hatch",
+    "slug": "hatch"
+  },
+  {
+    "name": "Hawaiian Bros",
+    "slug": "hawaiian-bros"
+  },
+  {
+    "name": "Hawaiian Style Bowls",
+    "slug": "hawaiian-style-bowls"
+  },
+  {
+    "name": "Health is Wealth",
+    "slug": "health-is-wealth"
+  },
+  {
+    "name": "Health Wise",
+    "slug": "health-wise"
+  },
+  {
+    "name": "Heartland",
+    "slug": "heartland"
+  },
+  {
+    "name": "HEB",
+    "slug": "heb"
+  },
+  {
+    "name": "Hello Fresh",
+    "slug": "hello-fresh"
+  },
+  {
+    "name": "Henry & Lisa's",
+    "slug": "henry-lisas"
+  },
+  {
+    "name": "Herculean",
+    "slug": "herculean"
+  },
+  {
+    "name": "Hero",
+    "slug": "hero"
+  },
+  {
+    "name": "Herr's",
+    "slug": "herrs"
+  },
+  {
+    "name": "Hershey's",
+    "slug": "hersheys"
+  },
+  {
+    "name": "High Key",
+    "slug": "high-key"
+  },
+  {
+    "name": "Higher Taste",
+    "slug": "higher-taste"
+  },
+  {
+    "name": "Hiland",
+    "slug": "hiland"
+  },
+  {
+    "name": "Hill Country Fare",
+    "slug": "hill-country-fare"
+  },
+  {
+    "name": "Hills Bros.",
+    "slug": "hills-bros"
+  },
+  {
+    "name": "Hillside Harvest",
+    "slug": "hillside-harvest"
+  },
+  {
+    "name": "Hime",
+    "slug": "hime"
+  },
+  {
+    "name": "Hissho Sushi",
+    "slug": "hissho-sushi"
+  },
+  {
+    "name": "HMR",
+    "slug": "hmr"
+  },
+  {
+    "name": "Hodgson Mill",
+    "slug": "hodgson-mill"
+  },
+  {
+    "name": "Hodo",
+    "slug": "hodo"
+  },
+  {
+    "name": "Hodo Soy",
+    "slug": "hodo-soy"
+  },
+  {
+    "name": "Holiday Inn Express",
+    "slug": "holiday-inn-express"
+  },
+  {
+    "name": "Holiday Pantry",
+    "slug": "holiday-pantry"
+  },
+  {
+    "name": "Holy Land",
+    "slug": "holy-land"
+  },
+  {
+    "name": "Home Chef",
+    "slug": "home-chef"
+  },
+  {
+    "name": "Honey Bun",
+    "slug": "honey-bun"
+  },
+  {
+    "name": "Honey Stinger",
+    "slug": "honey-stinger"
+  },
+  {
+    "name": "HoneyBaked",
+    "slug": "honeybaked"
+  },
+  {
+    "name": "Hook Burger",
+    "slug": "hook-burger"
+  },
+  {
+    "name": "Hooters",
+    "slug": "hooters"
+  },
+  {
+    "name": "Hopdoddy",
+    "slug": "hopdoddy"
+  },
+  {
+    "name": "Hope",
+    "slug": "hope"
+  },
+  {
+    "name": "Hostess",
+    "slug": "hostess"
+  },
+  {
+    "name": "Hot Head Burritos",
+    "slug": "hot-head-burritos"
+  },
+  {
+    "name": "Hot Pockets",
+    "slug": "hot-pockets"
+  },
+  {
+    "name": "Houlihan's",
+    "slug": "houlihans"
+  },
+  {
+    "name": "House Foods",
+    "slug": "house-foods"
+  },
+  {
+    "name": "HuHot Mongolian Grill",
+    "slug": "huhot-mongolian-grill"
+  },
+  {
+    "name": "Hummustir",
+    "slug": "hummustir"
+  },
+  {
+    "name": "Hungry Hobo",
+    "slug": "hungry-hobo"
+  },
+  {
+    "name": "Hungry Jack",
+    "slug": "hungry-jack"
+  },
+  {
+    "name": "Hungry Root",
+    "slug": "hungry-root"
+  },
+  {
+    "name": "Hungry-Man",
+    "slug": "hungry-man"
+  },
+  {
+    "name": "Hunt's",
+    "slug": "hunts"
+  },
+  {
+    "name": "Hy-Vee",
+    "slug": "hy-vee"
+  },
+  {
+    "name": "I Mei",
+    "slug": "i-mei"
+  },
+  {
+    "name": "Ian's",
+    "slug": "ians"
+  },
+  {
+    "name": "Icelandic",
+    "slug": "icelandic"
+  },
+  {
+    "name": "Icicle Seafoods",
+    "slug": "icicle-seafoods"
+  },
+  {
+    "name": "Icon Meals",
+    "slug": "icon-meals"
+  },
+  {
+    "name": "IGA",
+    "slug": "iga"
+  },
+  {
+    "name": "IHOP",
+    "slug": "ihop"
+  },
+  {
+    "name": "Ikea",
+    "slug": "ikea"
+  },
+  {
+    "name": "Ile de France",
+    "slug": "ile-de-france"
+  },
+  {
+    "name": "Imagine Foods",
+    "slug": "imagine-foods"
+  },
+  {
+    "name": "IMEI",
+    "slug": "imei"
+  },
+  {
+    "name": "Immi",
+    "slug": "immi"
+  },
+  {
+    "name": "Imperial Garden",
+    "slug": "imperial-garden"
+  },
+  {
+    "name": "Imperial Gourmet",
+    "slug": "imperial-gourmet"
+  },
+  {
+    "name": "Impossible Foods",
+    "slug": "impossible-foods"
+  },
+  {
+    "name": "In-N-Out",
+    "slug": "in-n-out"
+  },
+  {
+    "name": "Innofoods",
+    "slug": "innofoods"
+  },
+  {
+    "name": "InnovAsian Cuisine",
+    "slug": "innovasian-cuisine"
+  },
+  {
+    "name": "International Delight",
+    "slug": "international-delight"
+  },
+  {
+    "name": "Isagenix",
+    "slug": "isagenix"
+  },
+  {
+    "name": "Islands Restaurants",
+    "slug": "islands-restaurants"
+  },
+  {
+    "name": "It Works",
+    "slug": "it-works"
+  },
+  {
+    "name": "It's It",
+    "slug": "its-it"
+  },
+  {
+    "name": "Itsuki",
+    "slug": "itsuki"
+  },
+  {
+    "name": "J Basket",
+    "slug": "j-basket"
+  },
+  {
+    "name": "J.C. Potter",
+    "slug": "j-c-potter"
+  },
+  {
+    "name": "J.J. Cassone",
+    "slug": "j-j-cassone"
+  },
+  {
+    "name": "Jack & Annie's",
+    "slug": "jack-annies"
+  },
+  {
+    "name": "Jack in the Box",
+    "slug": "jack-in-the-box"
+  },
+  {
+    "name": "Jack Link's",
+    "slug": "jack-links"
+  },
+  {
+    "name": "Jack's",
+    "slug": "jacks"
+  },
+  {
+    "name": "Jake's Wayback Burgers",
+    "slug": "jakes-wayback-burgers"
+  },
+  {
+    "name": "Jamba Juice",
+    "slug": "jamba-juice"
+  },
+  {
+    "name": "Jane-Jane",
+    "slug": "jane-jane"
+  },
+  {
+    "name": "Jane's",
+    "slug": "janes"
+  },
+  {
+    "name": "Janes Family Foods",
+    "slug": "janes-family-foods"
+  },
+  {
+    "name": "Jans",
+    "slug": "jans"
+  },
+  {
+    "name": "Jasmine",
+    "slug": "jasmine"
+  },
+  {
+    "name": "Jason's Deli",
+    "slug": "jasons-deli"
+  },
+  {
+    "name": "Java Pro",
+    "slug": "java-pro"
+  },
+  {
+    "name": "Jayone",
+    "slug": "jayone"
+  },
+  {
+    "name": "Jehling",
+    "slug": "jehling"
+  },
+  {
+    "name": "Jennifer's Garden",
+    "slug": "jennifers-garden"
+  },
+  {
+    "name": "Jenny Craig",
+    "slug": "jenny-craig"
+  },
+  {
+    "name": "Jerry's Subs and Pizza",
+    "slug": "jerrys-subs-and-pizza"
+  },
+  {
+    "name": "Jersey Mike's",
+    "slug": "jersey-mikes"
+  },
+  {
+    "name": "Jewel",
+    "slug": "jewel"
+  },
+  {
+    "name": "Jewel-Osco",
+    "slug": "jewel-osco"
+  },
+  {
+    "name": "Jiffy",
+    "slug": "jiffy"
+  },
+  {
+    "name": "Jim 'N Nick's",
+    "slug": "jim-n-nicks"
+  },
+  {
+    "name": "Jim Buddy's",
+    "slug": "jim-buddys"
+  },
+  {
+    "name": "Jimboy's Tacos",
+    "slug": "jimboys-tacos"
+  },
+  {
+    "name": "Jimmy Dean",
+    "slug": "jimmy-dean"
+  },
+  {
+    "name": "Jimmy John's",
+    "slug": "jimmy-johns"
+  },
+  {
+    "name": "Jinya",
+    "slug": "jinya"
+  },
+  {
+    "name": "Joe Corbi's",
+    "slug": "joe-corbis"
+  },
+  {
+    "name": "Joe's Crab Shack",
+    "slug": "joes-crab-shack"
+  },
+  {
+    "name": "John Howie",
+    "slug": "john-howie"
+  },
+  {
+    "name": "John Soules Foods",
+    "slug": "john-soules-foods"
+  },
+  {
+    "name": "Johnny Rockets",
+    "slug": "johnny-rockets"
+  },
+  {
+    "name": "Johnsonville",
+    "slug": "johnsonville"
+  },
+  {
+    "name": "Jollibee",
+    "slug": "jollibee"
+  },
+  {
+    "name": "Jongga",
+    "slug": "jongga"
+  },
+  {
+    "name": "Jose Ole",
+    "slug": "jose-ole"
+  },
+  {
+    "name": "Joseph's",
+    "slug": "josephs"
+  },
+  {
+    "name": "Journey to France",
+    "slug": "journey-to-france"
+  },
+  {
+    "name": "Joy Cone",
+    "slug": "joy-cone"
+  },
+  {
+    "name": "JTM",
+    "slug": "jtm"
+  },
+  {
+    "name": "Jugo Juice",
+    "slug": "jugo-juice"
+  },
+  {
+    "name": "JuiceLand",
+    "slug": "juiceland"
+  },
+  {
+    "name": "Julian Bakery",
+    "slug": "julian-bakery"
+  },
+  {
+    "name": "Just Desserts",
+    "slug": "just-desserts"
+  },
+  {
+    "name": "Just Salad",
+    "slug": "just-salad"
+  },
+  {
+    "name": "Kabuki",
+    "slug": "kabuki"
+  },
+  {
+    "name": "Kahiki",
+    "slug": "kahiki"
+  },
+  {
+    "name": "Kame",
+    "slug": "kame"
+  },
+  {
+    "name": "Kangaroo",
+    "slug": "kangaroo"
+  },
+  {
+    "name": "Kanimi",
+    "slug": "kanimi"
+  },
+  {
+    "name": "Karo",
+    "slug": "karo"
+  },
+  {
+    "name": "Kashi",
+    "slug": "kashi"
+  },
+  {
+    "name": "Katz",
+    "slug": "katz"
+  },
+  {
+    "name": "Katz Gluten Free",
+    "slug": "katz-gluten-free"
+  },
+  {
+    "name": "Kawan Food",
+    "slug": "kawan-food"
+  },
+  {
+    "name": "Keebler",
+    "slug": "keebler"
+  },
+  {
+    "name": "Kemps",
+    "slug": "kemps"
+  },
+  {
+    "name": "Ken's Steak House",
+    "slug": "kens-steak-house"
+  },
+  {
+    "name": "Kermanig Bakery",
+    "slug": "kermanig-bakery"
+  },
+  {
+    "name": "Keto and Co",
+    "slug": "keto-and-co"
+  },
+  {
+    "name": "Kettle & Fire",
+    "slug": "kettle-fire"
+  },
+  {
+    "name": "Kid Cuisine",
+    "slug": "kid-cuisine"
+  },
+  {
+    "name": "Kikkoman",
+    "slug": "kikkoman"
+  },
+  {
+    "name": "Kimbo",
+    "slug": "kimbo"
+  },
+  {
+    "name": "Kind",
+    "slug": "kind"
+  },
+  {
+    "name": "Kinder",
+    "slug": "kinder"
+  },
+  {
+    "name": "Kinder's",
+    "slug": "kinders"
+  },
+  {
+    "name": "King Cotton",
+    "slug": "king-cotton"
+  },
+  {
+    "name": "King of Pita Bakery",
+    "slug": "king-of-pita-bakery"
+  },
+  {
+    "name": "King Soba",
+    "slug": "king-soba"
+  },
+  {
+    "name": "King Taco",
+    "slug": "king-taco"
+  },
+  {
+    "name": "King's Hawaiian",
+    "slug": "kings-hawaiian"
+  },
+  {
+    "name": "Kinnikinnick Foods",
+    "slug": "kinnikinnick-foods"
+  },
+  {
+    "name": "Kirkwood",
+    "slug": "kirkwood"
+  },
+  {
+    "name": "Kitchen Fixin's",
+    "slug": "kitchen-fixins"
+  },
+  {
+    "name": "Kitchens Seafood",
+    "slug": "kitchens-seafood"
+  },
+  {
+    "name": "Kitu",
+    "slug": "kitu"
+  },
+  {
+    "name": "Kneaders",
+    "slug": "kneaders"
+  },
+  {
+    "name": "Knorr",
+    "slug": "knorr"
+  },
+  {
+    "name": "Know Better Bread",
+    "slug": "know-better-bread"
+  },
+  {
+    "name": "Koch Foods",
+    "slug": "koch-foods"
+  },
+  {
+    "name": "Koia",
+    "slug": "koia"
+  },
+  {
+    "name": "Kolache Factory",
+    "slug": "kolache-factory"
+  },
+  {
+    "name": "Kona Grill",
+    "slug": "kona-grill"
+  },
+  {
+    "name": "Konex Foods",
+    "slug": "konex-foods"
+  },
+  {
+    "name": "Kontos",
+    "slug": "kontos"
+  },
+  {
+    "name": "Kopiko",
+    "slug": "kopiko"
+  },
+  {
+    "name": "Koyo",
+    "slug": "koyo"
+  },
+  {
+    "name": "Kretschmar",
+    "slug": "kretschmar"
+  },
+  {
+    "name": "Kronos",
+    "slug": "kronos"
+  },
+  {
+    "name": "Krusteaz",
+    "slug": "krusteaz"
+  },
+  {
+    "name": "Krystal",
+    "slug": "krystal"
+  },
+  {
+    "name": "Kuli Kuli",
+    "slug": "kuli-kuli"
+  },
+  {
+    "name": "Kwik Trip",
+    "slug": "kwik-trip"
+  },
+  {
+    "name": "L'oven Fresh",
+    "slug": "loven-fresh"
+  },
+  {
+    "name": "L&L Hawaiian Barbecue",
+    "slug": "l-l-hawaiian-barbecue"
+  },
+  {
+    "name": "La Banderita",
+    "slug": "la-banderita"
+  },
+  {
+    "name": "La Bou",
+    "slug": "la-bou"
+  },
+  {
+    "name": "La Boulange",
+    "slug": "la-boulange"
+  },
+  {
+    "name": "La Boulangerie",
+    "slug": "la-boulangerie"
+  },
+  {
+    "name": "La Brea Bakery",
+    "slug": "la-brea-bakery"
+  },
+  {
+    "name": "La Choy",
+    "slug": "la-choy"
+  },
+  {
+    "name": "La Colombe",
+    "slug": "la-colombe"
+  },
+  {
+    "name": "La Madeleine",
+    "slug": "la-madeleine"
+  },
+  {
+    "name": "La Mas Rica",
+    "slug": "la-mas-rica"
+  },
+  {
+    "name": "La Preferida",
+    "slug": "la-preferida"
+  },
+  {
+    "name": "La Real",
+    "slug": "la-real"
+  },
+  {
+    "name": "La Romanella",
+    "slug": "la-romanella"
+  },
+  {
+    "name": "La Rosa",
+    "slug": "la-rosa"
+  },
+  {
+    "name": "La Rosa's",
+    "slug": "la-rosas"
+  },
+  {
+    "name": "La Salsa",
+    "slug": "la-salsa"
+  },
+  {
+    "name": "La Tortilla Factory",
+    "slug": "la-tortilla-factory"
+  },
+  {
+    "name": "La Victoria",
+    "slug": "la-victoria"
+  },
+  {
+    "name": "Lady's Choice",
+    "slug": "ladys-choice"
+  },
+  {
+    "name": "Lagniappe",
+    "slug": "lagniappe"
+  },
+  {
+    "name": "Lakanto",
+    "slug": "lakanto"
+  },
+  {
+    "name": "Lamar's",
+    "slug": "lamars"
+  },
+  {
+    "name": "Lamb Weston",
+    "slug": "lamb-weston"
+  },
+  {
+    "name": "Land O' Frost",
+    "slug": "land-o-frost"
+  },
+  {
+    "name": "Lantana",
+    "slug": "lantana"
+  },
+  {
+    "name": "LaRosa's Pizzeria",
+    "slug": "larosas-pizzeria"
+  },
+  {
+    "name": "Larry's Giant Subs",
+    "slug": "larrys-giant-subs"
+  },
+  {
+    "name": "Las Campanas",
+    "slug": "las-campanas"
+  },
+  {
+    "name": "Las Palmas",
+    "slug": "las-palmas"
+  },
+  {
+    "name": "Laura Scutter's",
+    "slug": "laura-scutters"
+  },
+  {
+    "name": "Laura's Lean Beef",
+    "slug": "lauras-lean-beef"
+  },
+  {
+    "name": "Lawry's",
+    "slug": "lawrys"
+  },
+  {
+    "name": "Lean Pockets",
+    "slug": "lean-pockets"
+  },
+  {
+    "name": "Lee's Famous Recipe",
+    "slug": "lees-famous-recipe"
+  },
+  {
+    "name": "Lee's Sandwiches",
+    "slug": "lees-sandwiches"
+  },
+  {
+    "name": "Leeann Chin",
+    "slug": "leeann-chin"
+  },
+  {
+    "name": "Legal Sea Foods",
+    "slug": "legal-sea-foods"
+  },
+  {
+    "name": "Lenny's",
+    "slug": "lennys"
+  },
+  {
+    "name": "Leo's Coney Island",
+    "slug": "leos-coney-island"
+  },
+  {
+    "name": "Leonetti's",
+    "slug": "leonettis"
+  },
+  {
+    "name": "Let's Dish",
+    "slug": "lets-dish"
+  },
+  {
+    "name": "Lewis Bake Shop",
+    "slug": "lewis-bake-shop"
+  },
+  {
+    "name": "Lick's",
+    "slug": "licks"
+  },
+  {
+    "name": "Lidl",
+    "slug": "lidl"
+  },
+  {
+    "name": "Life Choices",
+    "slug": "life-choices"
+  },
+  {
+    "name": "LifeCafe",
+    "slug": "lifecafe"
+  },
+  {
+    "name": "Lightlife Foods",
+    "slug": "lightlife-foods"
+  },
+  {
+    "name": "Like Air",
+    "slug": "like-air"
+  },
+  {
+    "name": "Like Meat",
+    "slug": "like-meat"
+  },
+  {
+    "name": "Lilly's",
+    "slug": "lillys"
+  },
+  {
+    "name": "Lindora",
+    "slug": "lindora"
+  },
+  {
+    "name": "Ling Ling",
+    "slug": "ling-ling"
+  },
+  {
+    "name": "Lion's Choice",
+    "slug": "lions-choice"
+  },
+  {
+    "name": "Little Crow Foods",
+    "slug": "little-crow-foods"
+  },
+  {
+    "name": "Little Debbie",
+    "slug": "little-debbie"
+  },
+  {
+    "name": "Little Red Wagon",
+    "slug": "little-red-wagon"
+  },
+  {
+    "name": "Little Salad Bar",
+    "slug": "little-salad-bar"
+  },
+  {
+    "name": "Live G Free",
+    "slug": "live-g-free"
+  },
+  {
+    "name": "Lloyd's Barbeque Company",
+    "slug": "lloyds-barbeque-company"
+  },
+  {
+    "name": "Logan's Roadhouse",
+    "slug": "logans-roadhouse"
+  },
+  {
+    "name": "Lone Star Steakhouse",
+    "slug": "lone-star-steakhouse"
+  },
+  {
+    "name": "Long John Silver's",
+    "slug": "long-john-silvers"
+  },
+  {
+    "name": "Longhorn Steakhouse",
+    "slug": "longhorn-steakhouse"
+  },
+  {
+    "name": "Loretta",
+    "slug": "loretta"
+  },
+  {
+    "name": "Lorissa's Kitchen",
+    "slug": "lorissas-kitchen"
+  },
+  {
+    "name": "Los Betos",
+    "slug": "los-betos"
+  },
+  {
+    "name": "Lotus Foods",
+    "slug": "lotus-foods"
+  },
+  {
+    "name": "Lou Malnati's",
+    "slug": "lou-malnatis"
+  },
+  {
+    "name": "Louis Kemp",
+    "slug": "louis-kemp"
+  },
+  {
+    "name": "Louisiana Supreme",
+    "slug": "louisiana-supreme"
+  },
+  {
+    "name": "Love Love Teriyaki",
+    "slug": "love-love-teriyaki"
+  },
+  {
+    "name": "Lowes Foods",
+    "slug": "lowes-foods"
+  },
+  {
+    "name": "Lucille's Smokehouse BBQ",
+    "slug": "lucilles-smokehouse-bbq"
+  },
+  {
+    "name": "Lucky Delight",
+    "slug": "lucky-delight"
+  },
+  {
+    "name": "Lucky Foods",
+    "slug": "lucky-foods"
+  },
+  {
+    "name": "Luigi Vitelli",
+    "slug": "luigi-vitelli"
+  },
+  {
+    "name": "Luke's",
+    "slug": "lukes"
+  },
+  {
+    "name": "Luna Grill",
+    "slug": "luna-grill"
+  },
+  {
+    "name": "Luvo",
+    "slug": "luvo"
+  },
+  {
+    "name": "M&M Meat Shops",
+    "slug": "m-m-meat-shops"
+  },
+  {
+    "name": "M&M's",
+    "slug": "m-ms"
+  },
+  {
+    "name": "Macayo's",
+    "slug": "macayos"
+  },
+  {
+    "name": "Macro Vegetarian",
+    "slug": "macro-vegetarian"
+  },
+  {
+    "name": "Mad Greens",
+    "slug": "mad-greens"
+  },
+  {
+    "name": "Mad Minis",
+    "slug": "mad-minis"
+  },
+  {
+    "name": "Maesri",
+    "slug": "maesri"
+  },
+  {
+    "name": "Maffles",
+    "slug": "maffles"
+  },
+  {
+    "name": "Maggiano's",
+    "slug": "maggianos"
+  },
+  {
+    "name": "Magic Spoon",
+    "slug": "magic-spoon"
+  },
+  {
+    "name": "Maier's",
+    "slug": "maiers"
+  },
+  {
+    "name": "Maika",
+    "slug": "maika"
+  },
+  {
+    "name": "Maine Roast",
+    "slug": "maine-roast"
+  },
+  {
+    "name": "Makoto",
+    "slug": "makoto"
+  },
+  {
+    "name": "Malt-O-Meal",
+    "slug": "malt-o-meal"
+  },
+  {
+    "name": "Mama",
+    "slug": "mama"
+  },
+  {
+    "name": "Mama Cozzi",
+    "slug": "mama-cozzi"
+  },
+  {
+    "name": "Mama Mary's",
+    "slug": "mama-marys"
+  },
+  {
+    "name": "Manchu Wok",
+    "slug": "manchu-wok"
+  },
+  {
+    "name": "Manhattan Bagel",
+    "slug": "manhattan-bagel"
+  },
+  {
+    "name": "Manischewitz",
+    "slug": "manischewitz"
+  },
+  {
+    "name": "Manitoba Harvest",
+    "slug": "manitoba-harvest"
+  },
+  {
+    "name": "Manny's",
+    "slug": "mannys"
+  },
+  {
+    "name": "Maoz",
+    "slug": "maoz"
+  },
+  {
+    "name": "Marcela Valladolid",
+    "slug": "marcela-valladolid"
+  },
+  {
+    "name": "Marco's Pizza",
+    "slug": "marcos-pizza"
+  },
+  {
+    "name": "Margaritaville",
+    "slug": "margaritaville"
+  },
+  {
+    "name": "Margherita",
+    "slug": "margherita"
+  },
+  {
+    "name": "Marie Callender's",
+    "slug": "marie-callenders"
+  },
+  {
+    "name": "Martha White",
+    "slug": "martha-white"
+  },
+  {
+    "name": "Martin's",
+    "slug": "martins"
+  },
+  {
+    "name": "Maruchan",
+    "slug": "maruchan"
+  },
+  {
+    "name": "Marutai",
+    "slug": "marutai"
+  },
+  {
+    "name": "Mary B's",
+    "slug": "mary-bs"
+  },
+  {
+    "name": "Mason Dixie",
+    "slug": "mason-dixie"
+  },
+  {
+    "name": "Master Choice",
+    "slug": "master-choice"
+  },
+  {
+    "name": "Matador",
+    "slug": "matador"
+  },
+  {
+    "name": "Max & Erma's",
+    "slug": "max-ermas"
+  },
+  {
+    "name": "Maxfield's",
+    "slug": "maxfields"
+  },
+  {
+    "name": "Maxwell House",
+    "slug": "maxwell-house"
+  },
+  {
+    "name": "May's Hawaii",
+    "slug": "mays-hawaii"
+  },
+  {
+    "name": "Mayfield",
+    "slug": "mayfield"
+  },
+  {
+    "name": "Mazzio's Pizza",
+    "slug": "mazzios-pizza"
+  },
+  {
+    "name": "McAlister's Deli",
+    "slug": "mcalisters-deli"
+  },
+  {
+    "name": "McCain",
+    "slug": "mccain"
+  },
+  {
+    "name": "Mccormick",
+    "slug": "mccormick"
+  },
+  {
+    "name": "Mcdonald's",
+    "slug": "mcdonalds"
+  },
+  {
+    "name": "Meal Mart",
+    "slug": "meal-mart"
+  },
+  {
+    "name": "Meals For Muscle",
+    "slug": "meals-for-muscle"
+  },
+  {
+    "name": "Meat District",
+    "slug": "meat-district"
+  },
+  {
+    "name": "Medi Weightloss",
+    "slug": "medi-weightloss"
+  },
+  {
+    "name": "Medifast",
+    "slug": "medifast"
+  },
+  {
+    "name": "Mediterranean",
+    "slug": "mediterranean"
+  },
+  {
+    "name": "Megafit Meals",
+    "slug": "megafit-meals"
+  },
+  {
+    "name": "Meijer",
+    "slug": "meijer"
+  },
+  {
+    "name": "Mellow Mushroom",
+    "slug": "mellow-mushroom"
+  },
+  {
+    "name": "Member's Mark",
+    "slug": "members-mark"
+  },
+  {
+    "name": "Menchies",
+    "slug": "menchies"
+  },
+  {
+    "name": "Menraku",
+    "slug": "menraku"
+  },
+  {
+    "name": "Meza",
+    "slug": "meza"
+  },
+  {
+    "name": "Mezzetta",
+    "slug": "mezzetta"
+  },
+  {
+    "name": "Mi Mama's",
+    "slug": "mi-mamas"
+  },
+  {
+    "name": "Michelina's",
+    "slug": "michelinas"
+  },
+  {
+    "name": "Middle East Bakery",
+    "slug": "middle-east-bakery"
+  },
+  {
+    "name": "Mighty Meals",
+    "slug": "mighty-meals"
+  },
+  {
+    "name": "Mighty Taco",
+    "slug": "mighty-taco"
+  },
+  {
+    "name": "Mike's Mighty Good",
+    "slug": "mikes-mighty-good"
+  },
+  {
+    "name": "Milk Bar",
+    "slug": "milk-bar"
+  },
+  {
+    "name": "Miller's Ale House",
+    "slug": "millers-ale-house"
+  },
+  {
+    "name": "Millville",
+    "slug": "millville"
+  },
+  {
+    "name": "Mimis Cafe",
+    "slug": "mimis-cafe"
+  },
+  {
+    "name": "Ming Tsai",
+    "slug": "ming-tsai"
+  },
+  {
+    "name": "Minh",
+    "slug": "minh"
+  },
+  {
+    "name": "Minute",
+    "slug": "minute"
+  },
+  {
+    "name": "Minute Maid",
+    "slug": "minute-maid"
+  },
+  {
+    "name": "Miracle Noodle",
+    "slug": "miracle-noodle"
+  },
+  {
+    "name": "Miracle Noodle Kitchen",
+    "slug": "miracle-noodle-kitchen"
+  },
+  {
+    "name": "Miss Jones",
+    "slug": "miss-jones"
+  },
+  {
+    "name": "Mission",
+    "slug": "mission"
+  },
+  {
+    "name": "Mission BBQ",
+    "slug": "mission-bbq"
+  },
+  {
+    "name": "Mission Foods",
+    "slug": "mission-foods"
+  },
+  {
+    "name": "MixStirs",
+    "slug": "mixstirs"
+  },
+  {
+    "name": "Mizkan",
+    "slug": "mizkan"
+  },
+  {
+    "name": "Mochinut",
+    "slug": "mochinut"
+  },
+  {
+    "name": "Moe's Southwest Grill",
+    "slug": "moes-southwest-grill"
+  },
+  {
+    "name": "Monde",
+    "slug": "monde"
+  },
+  {
+    "name": "Morning Star",
+    "slug": "morning-star"
+  },
+  {
+    "name": "Morrison's",
+    "slug": "morrisons"
+  },
+  {
+    "name": "Morton",
+    "slug": "morton"
+  },
+  {
+    "name": "Mosaic",
+    "slug": "mosaic"
+  },
+  {
+    "name": "Moshe's",
+    "slug": "moshes"
+  },
+  {
+    "name": "Mountain House",
+    "slug": "mountain-house"
+  },
+  {
+    "name": "Mr. Fowler's Chicken",
+    "slug": "mr-fowlers-chicken"
+  },
+  {
+    "name": "Mr. Goodcents",
+    "slug": "mr-goodcents"
+  },
+  {
+    "name": "Mr. Hero",
+    "slug": "mr-hero"
+  },
+  {
+    "name": "Mr. Pita",
+    "slug": "mr-pita"
+  },
+  {
+    "name": "Mr.Sub",
+    "slug": "mr-sub"
+  },
+  {
+    "name": "Mrbeast Burger",
+    "slug": "mrbeast-burger"
+  },
+  {
+    "name": "Mrs Baird's",
+    "slug": "mrs-bairds"
+  },
+  {
+    "name": "Mrs. Butterworth's",
+    "slug": "mrs-butterworths"
+  },
+  {
+    "name": "Mrs. Cubbison's",
+    "slug": "mrs-cubbisons"
+  },
+  {
+    "name": "Mrs. Dash",
+    "slug": "mrs-dash"
+  },
+  {
+    "name": "Mrs. Fields",
+    "slug": "mrs-fields"
+  },
+  {
+    "name": "Mrs. Freshley's",
+    "slug": "mrs-freshleys"
+  },
+  {
+    "name": "Mrs. Paul's",
+    "slug": "mrs-pauls"
+  },
+  {
+    "name": "Mrs. Smith's",
+    "slug": "mrs-smiths"
+  },
+  {
+    "name": "Muffin Town",
+    "slug": "muffin-town"
+  },
+  {
+    "name": "Murphy's Deli",
+    "slug": "murphys-deli"
+  },
+  {
+    "name": "Murray",
+    "slug": "murray"
+  },
+  {
+    "name": "Muscle Maker Grill",
+    "slug": "muscle-maker-grill"
+  },
+  {
+    "name": "MuscleTech",
+    "slug": "muscletech"
+  },
+  {
+    "name": "Mush",
+    "slug": "mush"
+  },
+  {
+    "name": "My Essentials",
+    "slug": "my-essentials"
+  },
+  {
+    "name": "MyFitFoods",
+    "slug": "myfitfoods"
+  },
+  {
+    "name": "Naf Naf Grill",
+    "slug": "naf-naf-grill"
+  },
+  {
+    "name": "Nagatanien",
+    "slug": "nagatanien"
+  },
+  {
+    "name": "Naked Juice",
+    "slug": "naked-juice"
+  },
+  {
+    "name": "Naked Noodle",
+    "slug": "naked-noodle"
+  },
+  {
+    "name": "Nance's",
+    "slug": "nances"
+  },
+  {
+    "name": "Nancy's",
+    "slug": "nancys"
+  },
+  {
+    "name": "Nando's",
+    "slug": "nandos"
+  },
+  {
+    "name": "Nano",
+    "slug": "nano"
+  },
+  {
+    "name": "Napa Valley Mustard Co.",
+    "slug": "napa-valley-mustard-co"
+  },
+  {
+    "name": "Nasoya",
+    "slug": "nasoya"
+  },
+  {
+    "name": "Nathan's Famous",
+    "slug": "nathans-famous"
+  },
+  {
+    "name": "National Coney Island",
+    "slug": "national-coney-island"
+  },
+  {
+    "name": "Nature Smart",
+    "slug": "nature-smart"
+  },
+  {
+    "name": "Nature's Path",
+    "slug": "natures-path"
+  },
+  {
+    "name": "Nature's Promise",
+    "slug": "natures-promise"
+  },
+  {
+    "name": "Nectar Nugget",
+    "slug": "nectar-nugget"
+  },
+  {
+    "name": "Neisha Thai Cuisine",
+    "slug": "neisha-thai-cuisine"
+  },
+  {
+    "name": "Nescafe",
+    "slug": "nescafe"
+  },
+  {
+    "name": "Neuro",
+    "slug": "neuro"
+  },
+  {
+    "name": "Never Any",
+    "slug": "never-any"
+  },
+  {
+    "name": "New Direction",
+    "slug": "new-direction"
+  },
+  {
+    "name": "New Hope Mills",
+    "slug": "new-hope-mills"
+  },
+  {
+    "name": "New York Style",
+    "slug": "new-york-style"
+  },
+  {
+    "name": "NewGem Foods",
+    "slug": "newgem-foods"
+  },
+  {
+    "name": "Newman's Own",
+    "slug": "newmans-own"
+  },
+  {
+    "name": "Nice!",
+    "slug": "nice"
+  },
+  {
+    "name": "Nick The Greek",
+    "slug": "nick-the-greek"
+  },
+  {
+    "name": "Nickles",
+    "slug": "nickles"
+  },
+  {
+    "name": "Niman Ranch",
+    "slug": "niman-ranch"
+  },
+  {
+    "name": "Nissin",
+    "slug": "nissin"
+  },
+  {
+    "name": "No Cow",
+    "slug": "no-cow"
+  },
+  {
+    "name": "No Name",
+    "slug": "no-name"
+  },
+  {
+    "name": "No Yolks",
+    "slug": "no-yolks"
+  },
+  {
+    "name": "Noka",
+    "slug": "noka"
+  },
+  {
+    "name": "Nona Lim",
+    "slug": "nona-lim"
+  },
+  {
+    "name": "Nong Shim",
+    "slug": "nong-shim"
+  },
+  {
+    "name": "Nordstrom",
+    "slug": "nordstrom"
+  },
+  {
+    "name": "Northern Catch",
+    "slug": "northern-catch"
+  },
+  {
+    "name": "Notta Pasta",
+    "slug": "notta-pasta"
+  },
+  {
+    "name": "NRgize Lifestyle Cafe",
+    "slug": "nrgize-lifestyle-cafe"
+  },
+  {
+    "name": "NuGo",
+    "slug": "nugo"
+  },
+  {
+    "name": "NutraBio",
+    "slug": "nutrabio"
+  },
+  {
+    "name": "NutraOne",
+    "slug": "nutraone"
+  },
+  {
+    "name": "NutriKeto",
+    "slug": "nutriketo"
+  },
+  {
+    "name": "Nutrimed",
+    "slug": "nutrimed"
+  },
+  {
+    "name": "Nutrisystem",
+    "slug": "nutrisystem"
+  },
+  {
+    "name": "Nuttzo",
+    "slug": "nuttzo"
+  },
+  {
+    "name": "O'Charley's",
+    "slug": "ocharleys"
+  },
+  {
+    "name": "O'Dang",
+    "slug": "odang"
+  },
+  {
+    "name": "O'Doughs",
+    "slug": "odoughs"
+  },
+  {
+    "name": "Oasis Classic Cuisine",
+    "slug": "oasis-classic-cuisine"
+  },
+  {
+    "name": "Oasis Mediterranean Cuisine",
+    "slug": "oasis-mediterranean-cuisine"
+  },
+  {
+    "name": "Oatly",
+    "slug": "oatly"
+  },
+  {
+    "name": "Oats Overnight",
+    "slug": "oats-overnight"
+  },
+  {
+    "name": "Oberto",
+    "slug": "oberto"
+  },
+  {
+    "name": "Ocean Cafe",
+    "slug": "ocean-cafe"
+  },
+  {
+    "name": "Ocean Galley",
+    "slug": "ocean-galley"
+  },
+  {
+    "name": "Ocean Pier",
+    "slug": "ocean-pier"
+  },
+  {
+    "name": "Ocean's",
+    "slug": "oceans"
+  },
+  {
+    "name": "Ocean's Halo",
+    "slug": "oceans-halo"
+  },
+  {
+    "name": "Odwalla",
+    "slug": "odwalla"
+  },
+  {
+    "name": "Oh Yeah!",
+    "slug": "oh-yeah"
+  },
+  {
+    "name": "Okami",
+    "slug": "okami"
+  },
+  {
+    "name": "Olafsons",
+    "slug": "olafsons"
+  },
+  {
+    "name": "Old Chicago",
+    "slug": "old-chicago"
+  },
+  {
+    "name": "Old El Paso",
+    "slug": "old-el-paso"
+  },
+  {
+    "name": "Old London",
+    "slug": "old-london"
+  },
+  {
+    "name": "Old Spaghetti Factory",
+    "slug": "old-spaghetti-factory"
+  },
+  {
+    "name": "Old Trapper",
+    "slug": "old-trapper"
+  },
+  {
+    "name": "Old Tyme",
+    "slug": "old-tyme"
+  },
+  {
+    "name": "Olga's Kitchen",
+    "slug": "olgas-kitchen"
+  },
+  {
+    "name": "Olive Garden",
+    "slug": "olive-garden"
+  },
+  {
+    "name": "Olivieri",
+    "slug": "olivieri"
+  },
+  {
+    "name": "Olympia Provisions",
+    "slug": "olympia-provisions"
+  },
+  {
+    "name": "Omaha Steaks",
+    "slug": "omaha-steaks"
+  },
+  {
+    "name": "On The Border",
+    "slug": "on-the-border"
+  },
+  {
+    "name": "One A Day",
+    "slug": "one-a-day"
+  },
+  {
+    "name": "One Culture Foods",
+    "slug": "one-culture-foods"
+  },
+  {
+    "name": "Ono Hawaiian BBQ",
+    "slug": "ono-hawaiian-bbq"
+  },
+  {
+    "name": "Opa Souvlaki of Greece",
+    "slug": "opa-souvlaki-of-greece"
+  },
+  {
+    "name": "Opaa!",
+    "slug": "opaa"
+  },
+  {
+    "name": "Open Nature",
+    "slug": "open-nature"
+  },
+  {
+    "name": "Optavia",
+    "slug": "optavia"
+  },
+  {
+    "name": "Orange Julius",
+    "slug": "orange-julius"
+  },
+  {
+    "name": "Ore-Ida",
+    "slug": "ore-ida"
+  },
+  {
+    "name": "Orgain",
+    "slug": "orgain"
+  },
+  {
+    "name": "Organo Gold",
+    "slug": "organo-gold"
+  },
+  {
+    "name": "Original Rangoon",
+    "slug": "original-rangoon"
+  },
+  {
+    "name": "Original South Philly",
+    "slug": "original-south-philly"
+  },
+  {
+    "name": "Oroweat",
+    "slug": "oroweat"
+  },
+  {
+    "name": "Ortega",
+    "slug": "ortega"
+  },
+  {
+    "name": "Osem",
+    "slug": "osem"
+  },
+  {
+    "name": "Otis Spunkmeyer",
+    "slug": "otis-spunkmeyer"
+  },
+  {
+    "name": "Ott's",
+    "slug": "otts"
+  },
+  {
+    "name": "Ottogi",
+    "slug": "ottogi"
+  },
+  {
+    "name": "Outback Steakhouse",
+    "slug": "outback-steakhouse"
+  },
+  {
+    "name": "Oven Delights",
+    "slug": "oven-delights"
+  },
+  {
+    "name": "OWYN",
+    "slug": "owyn"
+  },
+  {
+    "name": "Ozark Hearth",
+    "slug": "ozark-hearth"
+  },
+  {
+    "name": "P.F. Chang's",
+    "slug": "p-f-changs"
+  },
+  {
+    "name": "Pacific Chai",
+    "slug": "pacific-chai"
+  },
+  {
+    "name": "Pacific Gold",
+    "slug": "pacific-gold"
+  },
+  {
+    "name": "Pacific Seafood",
+    "slug": "pacific-seafood"
+  },
+  {
+    "name": "Paco",
+    "slug": "paco"
+  },
+  {
+    "name": "Pagoda Express",
+    "slug": "pagoda-express"
+  },
+  {
+    "name": "Palagonia",
+    "slug": "palagonia"
+  },
+  {
+    "name": "Paldo",
+    "slug": "paldo"
+  },
+  {
+    "name": "Paleonola",
+    "slug": "paleonola"
+  },
+  {
+    "name": "Paleovalley",
+    "slug": "paleovalley"
+  },
+  {
+    "name": "Palermo's",
+    "slug": "palermos"
+  },
+  {
+    "name": "Pamcakes Pancakes",
+    "slug": "pamcakes-pancakes"
+  },
+  {
+    "name": "Pampa",
+    "slug": "pampa"
+  },
+  {
+    "name": "Pampered Chef",
+    "slug": "pampered-chef"
+  },
+  {
+    "name": "Panago",
+    "slug": "panago"
+  },
+  {
+    "name": "Panda Express",
+    "slug": "panda-express"
+  },
+  {
+    "name": "Panda Signature",
+    "slug": "panda-signature"
+  },
+  {
+    "name": "Panebras",
+    "slug": "panebras"
+  },
+  {
+    "name": "Panera Bread",
+    "slug": "panera-bread"
+  },
+  {
+    "name": "Panni",
+    "slug": "panni"
+  },
+  {
+    "name": "Papa Gino's",
+    "slug": "papa-ginos"
+  },
+  {
+    "name": "Papa John's",
+    "slug": "papa-johns"
+  },
+  {
+    "name": "Papa Pita",
+    "slug": "papa-pita"
+  },
+  {
+    "name": "Paradise Bakery",
+    "slug": "paradise-bakery"
+  },
+  {
+    "name": "Paramount",
+    "slug": "paramount"
+  },
+  {
+    "name": "Paris Baguette",
+    "slug": "paris-baguette"
+  },
+  {
+    "name": "Park Street Deli",
+    "slug": "park-street-deli"
+  },
+  {
+    "name": "Pasta Prima",
+    "slug": "pasta-prima"
+  },
+  {
+    "name": "Pasta Roni",
+    "slug": "pasta-roni"
+  },
+  {
+    "name": "Pat & Oscar's",
+    "slug": "pat-oscars"
+  },
+  {
+    "name": "Pat's",
+    "slug": "pats"
+  },
+  {
+    "name": "Pathmark",
+    "slug": "pathmark"
+  },
+  {
+    "name": "Patio",
+    "slug": "patio"
+  },
+  {
+    "name": "Paula Deen",
+    "slug": "paula-deen"
+  },
+  {
+    "name": "PDQ",
+    "slug": "pdq"
+  },
+  {
+    "name": "Pede Bros.",
+    "slug": "pede-bros"
+  },
+  {
+    "name": "Peet's Coffee & Tea",
+    "slug": "peets-coffee-tea"
+  },
+  {
+    "name": "Pei Wei",
+    "slug": "pei-wei"
+  },
+  {
+    "name": "Pemmican",
+    "slug": "pemmican"
+  },
+  {
+    "name": "Penn Station",
+    "slug": "penn-station"
+  },
+  {
+    "name": "Pepperjax Grill",
+    "slug": "pepperjax-grill"
+  },
+  {
+    "name": "Perfect Fit Meals",
+    "slug": "perfect-fit-meals"
+  },
+  {
+    "name": "Perfect Foods Bar",
+    "slug": "perfect-foods-bar"
+  },
+  {
+    "name": "Performix",
+    "slug": "performix"
+  },
+  {
+    "name": "Perkins Restaurant",
+    "slug": "perkins-restaurant"
+  },
+  {
+    "name": "Perry's Ice Cream",
+    "slug": "perrys-ice-cream"
+  },
+  {
+    "name": "Personal Trainer Food",
+    "slug": "personal-trainer-food"
+  },
+  {
+    "name": "Petite Cuisine",
+    "slug": "petite-cuisine"
+  },
+  {
+    "name": "Phil's",
+    "slug": "phils"
+  },
+  {
+    "name": "Phillips",
+    "slug": "phillips"
+  },
+  {
+    "name": "Philly Soft Pretzel Factory",
+    "slug": "philly-soft-pretzel-factory"
+  },
+  {
+    "name": "Philly's Best",
+    "slug": "phillys-best"
+  },
+  {
+    "name": "Phoenician Mediterranean Food",
+    "slug": "phoenician-mediterranean-food"
+  },
+  {
+    "name": "Phoney Baloney's",
+    "slug": "phoney-baloneys"
+  },
+  {
+    "name": "Phonomenal",
+    "slug": "phonomenal"
+  },
+  {
+    "name": "Phoros",
+    "slug": "phoros"
+  },
+  {
+    "name": "Pick Up Stix",
+    "slug": "pick-up-stix"
+  },
+  {
+    "name": "PICS",
+    "slug": "pics"
+  },
+  {
+    "name": "Pier 33 Gourmet",
+    "slug": "pier-33-gourmet"
+  },
+  {
+    "name": "Pierce Chicken",
+    "slug": "pierce-chicken"
+  },
+  {
+    "name": "Pilgrim's Pride",
+    "slug": "pilgrims-pride"
+  },
+  {
+    "name": "Pinkberry",
+    "slug": "pinkberry"
+  },
+  {
+    "name": "Pita Alwatan",
+    "slug": "pita-alwatan"
+  },
+  {
+    "name": "Pita Bread Factory",
+    "slug": "pita-bread-factory"
+  },
+  {
+    "name": "Pita Break",
+    "slug": "pita-break"
+  },
+  {
+    "name": "Pita Express",
+    "slug": "pita-express"
+  },
+  {
+    "name": "Pita Gourmet",
+    "slug": "pita-gourmet"
+  },
+  {
+    "name": "Pita Jungle",
+    "slug": "pita-jungle"
+  },
+  {
+    "name": "Pita Krunch",
+    "slug": "pita-krunch"
+  },
+  {
+    "name": "Pita Pal",
+    "slug": "pita-pal"
+  },
+  {
+    "name": "Pita Pit",
+    "slug": "pita-pit"
+  },
+  {
+    "name": "Pita's Gourmet Mediterranean Foods",
+    "slug": "pitas-gourmet-mediterranean-foods"
+  },
+  {
+    "name": "Pitaya Plus",
+    "slug": "pitaya-plus"
+  },
+  {
+    "name": "Pizza Hut",
+    "slug": "pizza-hut"
+  },
+  {
+    "name": "Pizza My Heart",
+    "slug": "pizza-my-heart"
+  },
+  {
+    "name": "Pizza Pizza",
+    "slug": "pizza-pizza"
+  },
+  {
+    "name": "Pizza Ranch",
+    "slug": "pizza-ranch"
+  },
+  {
+    "name": "Planet Smoothie",
+    "slug": "planet-smoothie"
+  },
+  {
+    "name": "Planet Sub",
+    "slug": "planet-sub"
+  },
+  {
+    "name": "Plant Fusion",
+    "slug": "plant-fusion"
+  },
+  {
+    "name": "Plant Made",
+    "slug": "plant-made"
+  },
+  {
+    "name": "Playa Bowls",
+    "slug": "playa-bowls"
+  },
+  {
+    "name": "Pluckers",
+    "slug": "pluckers"
+  },
+  {
+    "name": "Podravka",
+    "slug": "podravka"
+  },
+  {
+    "name": "Pollo Campero",
+    "slug": "pollo-campero"
+  },
+  {
+    "name": "Pollo Tropical",
+    "slug": "pollo-tropical"
+  },
+  {
+    "name": "Ponchartrain Blue Crab",
+    "slug": "ponchartrain-blue-crab"
+  },
+  {
+    "name": "PONTO",
+    "slug": "ponto"
+  },
+  {
+    "name": "Popchips",
+    "slug": "popchips"
+  },
+  {
+    "name": "Port of Subs",
+    "slug": "port-of-subs"
+  },
+  {
+    "name": "Portillo's",
+    "slug": "portillos"
+  },
+  {
+    "name": "Posada",
+    "slug": "posada"
+  },
+  {
+    "name": "Post",
+    "slug": "post"
+  },
+  {
+    "name": "Potbelly",
+    "slug": "potbelly"
+  },
+  {
+    "name": "Power Plate Meals",
+    "slug": "power-plate-meals"
+  },
+  {
+    "name": "Powerful",
+    "slug": "powerful"
+  },
+  {
+    "name": "Powerful Smoothie",
+    "slug": "powerful-smoothie"
+  },
+  {
+    "name": "Premier Selections",
+    "slug": "premier-selections"
+  },
+  {
+    "name": "Premo",
+    "slug": "premo"
+  },
+  {
+    "name": "Pressed Juicery",
+    "slug": "pressed-juicery"
+  },
+  {
+    "name": "Pressery",
+    "slug": "pressery"
+  },
+  {
+    "name": "Pret a Manger",
+    "slug": "pret-a-manger"
+  },
+  {
+    "name": "Pretzilla",
+    "slug": "pretzilla"
+  },
+  {
+    "name": "Primal Bakery",
+    "slug": "primal-bakery"
+  },
+  {
+    "name": "Prime Food",
+    "slug": "prime-food"
+  },
+  {
+    "name": "Primo Hoagies",
+    "slug": "primo-hoagies"
+  },
+  {
+    "name": "Private Selection",
+    "slug": "private-selection"
+  },
+  {
+    "name": "Pro-Stat",
+    "slug": "pro-stat"
+  },
+  {
+    "name": "Profile",
+    "slug": "profile"
+  },
+  {
+    "name": "Proti Diet",
+    "slug": "proti-diet"
+  },
+  {
+    "name": "Proti-VLC",
+    "slug": "proti-vlc"
+  },
+  {
+    "name": "ProYo",
+    "slug": "proyo"
+  },
+  {
+    "name": "Public Goods",
+    "slug": "public-goods"
+  },
+  {
+    "name": "Publix",
+    "slug": "publix"
+  },
+  {
+    "name": "Pueblo Lindo",
+    "slug": "pueblo-lindo"
+  },
+  {
+    "name": "Pulmuone",
+    "slug": "pulmuone"
+  },
+  {
+    "name": "Pure Catch",
+    "slug": "pure-catch"
+  },
+  {
+    "name": "Purefoods",
+    "slug": "purefoods"
+  },
+  {
+    "name": "Purity",
+    "slug": "purity"
+  },
+  {
+    "name": "Purity Foods",
+    "slug": "purity-foods"
+  },
+  {
+    "name": "Qdoba Mexican Grill",
+    "slug": "qdoba-mexican-grill"
+  },
+  {
+    "name": "QFC",
+    "slug": "qfc"
+  },
+  {
+    "name": "QT Kitchens",
+    "slug": "qt-kitchens"
+  },
+  {
+    "name": "Quaker",
+    "slug": "quaker"
+  },
+  {
+    "name": "QuickChek",
+    "slug": "quickchek"
+  },
+  {
+    "name": "Quiktrip",
+    "slug": "quiktrip"
+  },
+  {
+    "name": "Quirch Foods",
+    "slug": "quirch-foods"
+  },
+  {
+    "name": "Quiznos",
+    "slug": "quiznos"
+  },
+  {
+    "name": "Quorn",
+    "slug": "quorn"
+  },
+  {
+    "name": "R-Kane",
+    "slug": "r-kane"
+  },
+  {
+    "name": "RA Sushi",
+    "slug": "ra-sushi"
+  },
+  {
+    "name": "Racconto",
+    "slug": "racconto"
+  },
+  {
+    "name": "RaceTrac",
+    "slug": "racetrac"
+  },
+  {
+    "name": "Ragu",
+    "slug": "ragu"
+  },
+  {
+    "name": "Raised & Rooted",
+    "slug": "raised-rooted"
+  },
+  {
+    "name": "Raising Cane's",
+    "slug": "raising-canes"
+  },
+  {
+    "name": "Rally's",
+    "slug": "rallys"
+  },
+  {
+    "name": "Ramen Express By Chef Woo",
+    "slug": "ramen-express-by-chef-woo"
+  },
+  {
+    "name": "Raybern",
+    "slug": "raybern"
+  },
+  {
+    "name": "Real Appeal",
+    "slug": "real-appeal"
+  },
+  {
+    "name": "Real Foods",
+    "slug": "real-foods"
+  },
+  {
+    "name": "Real Good Foods",
+    "slug": "real-good-foods"
+  },
+  {
+    "name": "Real Wraps",
+    "slug": "real-wraps"
+  },
+  {
+    "name": "Reames",
+    "slug": "reames"
+  },
+  {
+    "name": "Rebel",
+    "slug": "rebel"
+  },
+  {
+    "name": "Recor",
+    "slug": "recor"
+  },
+  {
+    "name": "Red Baron",
+    "slug": "red-baron"
+  },
+  {
+    "name": "Red Hot & Blue",
+    "slug": "red-hot-blue"
+  },
+  {
+    "name": "Red Lobster",
+    "slug": "red-lobster"
+  },
+  {
+    "name": "Red Ribbon",
+    "slug": "red-ribbon"
+  },
+  {
+    "name": "Red Robin",
+    "slug": "red-robin"
+  },
+  {
+    "name": "Red Shell",
+    "slug": "red-shell"
+  },
+  {
+    "name": "Reser's",
+    "slug": "resers"
+  },
+  {
+    "name": "Revive",
+    "slug": "revive"
+  },
+  {
+    "name": "Revive Superfoods",
+    "slug": "revive-superfoods"
+  },
+  {
+    "name": "Rhodes",
+    "slug": "rhodes"
+  },
+  {
+    "name": "Rice Gourmet",
+    "slug": "rice-gourmet"
+  },
+  {
+    "name": "Rice-A-Roni",
+    "slug": "rice-a-roni"
+  },
+  {
+    "name": "Rich Bake",
+    "slug": "rich-bake"
+  },
+  {
+    "name": "Rico",
+    "slug": "rico"
+  },
+  {
+    "name": "Rico M. Panada",
+    "slug": "rico-m-panada"
+  },
+  {
+    "name": "Righteous Felon",
+    "slug": "righteous-felon"
+  },
+  {
+    "name": "Rio Star Foods",
+    "slug": "rio-star-foods"
+  },
+  {
+    "name": "Rita's",
+    "slug": "ritas"
+  },
+  {
+    "name": "Rizopia",
+    "slug": "rizopia"
+  },
+  {
+    "name": "Rizzo's",
+    "slug": "rizzos"
+  },
+  {
+    "name": "Robeks Juice",
+    "slug": "robeks-juice"
+  },
+  {
+    "name": "Roberto's Mexican Food",
+    "slug": "robertos-mexican-food"
+  },
+  {
+    "name": "Roland",
+    "slug": "roland"
+  },
+  {
+    "name": "Rold Gold",
+    "slug": "rold-gold"
+  },
+  {
+    "name": "Rolo",
+    "slug": "rolo"
+  },
+  {
+    "name": "Ronco",
+    "slug": "ronco"
+  },
+  {
+    "name": "Ronzoni",
+    "slug": "ronzoni"
+  },
+  {
+    "name": "Roosters",
+    "slug": "roosters"
+  },
+  {
+    "name": "Rosa's Cafe",
+    "slug": "rosas-cafe"
+  },
+  {
+    "name": "Rosarita",
+    "slug": "rosarita"
+  },
+  {
+    "name": "Rosetto",
+    "slug": "rosetto"
+  },
+  {
+    "name": "Rotella's",
+    "slug": "rotellas"
+  },
+  {
+    "name": "Roti Mediterranean Grill",
+    "slug": "roti-mediterranean-grill"
+  },
+  {
+    "name": "Round Table Pizza",
+    "slug": "round-table-pizza"
+  },
+  {
+    "name": "Roundy's",
+    "slug": "roundys"
+  },
+  {
+    "name": "Roy Rogers",
+    "slug": "roy-rogers"
+  },
+  {
+    "name": "Royal Asia",
+    "slug": "royal-asia"
+  },
+  {
+    "name": "Royal Mills",
+    "slug": "royal-mills"
+  },
+  {
+    "name": "Royal White",
+    "slug": "royal-white"
+  },
+  {
+    "name": "ROYO",
+    "slug": "royo"
+  },
+  {
+    "name": "Rozzano",
+    "slug": "rozzano"
+  },
+  {
+    "name": "Rubio's Fresh Mexican Grill",
+    "slug": "rubios-fresh-mexican-grill"
+  },
+  {
+    "name": "Ruby Tuesday",
+    "slug": "ruby-tuesday"
+  },
+  {
+    "name": "Rudy's",
+    "slug": "rudys"
+  },
+  {
+    "name": "Runza",
+    "slug": "runza"
+  },
+  {
+    "name": "Russo's",
+    "slug": "russos"
+  },
+  {
+    "name": "Ryan's",
+    "slug": "ryans"
+  },
+  {
+    "name": "Sabra",
+    "slug": "sabra"
+  },
+  {
+    "name": "Sadaf",
+    "slug": "sadaf"
+  },
+  {
+    "name": "Safeway",
+    "slug": "safeway"
+  },
+  {
+    "name": "Saffron Road",
+    "slug": "saffron-road"
+  },
+  {
+    "name": "Salad and Go",
+    "slug": "salad-and-go"
+  },
+  {
+    "name": "Salad Creations",
+    "slug": "salad-creations"
+  },
+  {
+    "name": "Saladelia",
+    "slug": "saladelia"
+  },
+  {
+    "name": "Salads of The Sea",
+    "slug": "salads-of-the-sea"
+  },
+  {
+    "name": "Saladworks",
+    "slug": "saladworks"
+  },
+  {
+    "name": "Salata",
+    "slug": "salata"
+  },
+  {
+    "name": "Salsarita's",
+    "slug": "salsaritas"
+  },
+  {
+    "name": "Sam Choy's",
+    "slug": "sam-choys"
+  },
+  {
+    "name": "Sam's Club",
+    "slug": "sams-club"
+  },
+  {
+    "name": "Sambazon",
+    "slug": "sambazon"
+  },
+  {
+    "name": "Samurai Sam's",
+    "slug": "samurai-sams"
+  },
+  {
+    "name": "Samyang",
+    "slug": "samyang"
+  },
+  {
+    "name": "San Francisco Soup Company",
+    "slug": "san-francisco-soup-company"
+  },
+  {
+    "name": "San Giorgio",
+    "slug": "san-giorgio"
+  },
+  {
+    "name": "Sanabel",
+    "slug": "sanabel"
+  },
+  {
+    "name": "Sandwich Bros. of Wisconsin",
+    "slug": "sandwich-bros-of-wisconsin"
+  },
+  {
+    "name": "Sandwich Petals",
+    "slug": "sandwich-petals"
+  },
+  {
+    "name": "Sangaria",
+    "slug": "sangaria"
+  },
+  {
+    "name": "SanSai Japanese Grill",
+    "slug": "sansai-japanese-grill"
+  },
+  {
+    "name": "Santiago's",
+    "slug": "santiagos"
+  },
+  {
+    "name": "Sapporo Ichiban",
+    "slug": "sapporo-ichiban"
+  },
+  {
+    "name": "Sara Lee",
+    "slug": "sara-lee"
+  },
+  {
+    "name": "Sarku Japan",
+    "slug": "sarku-japan"
+  },
+  {
+    "name": "Sbarro",
+    "slug": "sbarro"
+  },
+  {
+    "name": "Schar",
+    "slug": "schar"
+  },
+  {
+    "name": "Schwan's",
+    "slug": "schwans"
+  },
+  {
+    "name": "Schwebel's",
+    "slug": "schwebels"
+  },
+  {
+    "name": "Schweid & Sons",
+    "slug": "schweid-sons"
+  },
+  {
+    "name": "SciVation",
+    "slug": "scivation"
+  },
+  {
+    "name": "Scooter's",
+    "slug": "scooters"
+  },
+  {
+    "name": "Scotsburn",
+    "slug": "scotsburn"
+  },
+  {
+    "name": "Screamin Sicilian",
+    "slug": "screamin-sicilian"
+  },
+  {
+    "name": "Sea Best",
+    "slug": "sea-best"
+  },
+  {
+    "name": "Sea Cuisine",
+    "slug": "sea-cuisine"
+  },
+  {
+    "name": "Sea Mazz",
+    "slug": "sea-mazz"
+  },
+  {
+    "name": "Sea Queen",
+    "slug": "sea-queen"
+  },
+  {
+    "name": "Seal Sama",
+    "slug": "seal-sama"
+  },
+  {
+    "name": "Seal The Seasons",
+    "slug": "seal-the-seasons"
+  },
+  {
+    "name": "SeaPak",
+    "slug": "seapak"
+  },
+  {
+    "name": "Season's Choice",
+    "slug": "seasons-choice"
+  },
+  {
+    "name": "Seasons 52",
+    "slug": "seasons-52"
+  },
+  {
+    "name": "Seattle Sourdough Baking Company",
+    "slug": "seattle-sourdough-baking-company"
+  },
+  {
+    "name": "Seattle Sutton's Healthy Eating",
+    "slug": "seattle-suttons-healthy-eating"
+  },
+  {
+    "name": "Seattle's Best Coffee",
+    "slug": "seattles-best-coffee"
+  },
+  {
+    "name": "See's Candies",
+    "slug": "sees-candies"
+  },
+  {
+    "name": "Seeds of Change",
+    "slug": "seeds-of-change"
+  },
+  {
+    "name": "Sensible Portions",
+    "slug": "sensible-portions"
+  },
+  {
+    "name": "Seviroli",
+    "slug": "seviroli"
+  },
+  {
+    "name": "Shake Shack",
+    "slug": "shake-shack"
+  },
+  {
+    "name": "Shakey's",
+    "slug": "shakeys"
+  },
+  {
+    "name": "Sharky's Woodfired Mexican Grill",
+    "slug": "sharkys-woodfired-mexican-grill"
+  },
+  {
+    "name": "Sheetz",
+    "slug": "sheetz"
+  },
+  {
+    "name": "Shin-Sen-Gumi",
+    "slug": "shin-sen-gumi"
+  },
+  {
+    "name": "Shirakiku",
+    "slug": "shirakiku"
+  },
+  {
+    "name": "Shogun",
+    "slug": "shogun"
+  },
+  {
+    "name": "Shoney's",
+    "slug": "shoneys"
+  },
+  {
+    "name": "ShopHouse",
+    "slug": "shophouse"
+  },
+  {
+    "name": "Shoppers Value",
+    "slug": "shoppers-value"
+  },
+  {
+    "name": "ShopRite",
+    "slug": "shoprite"
+  },
+  {
+    "name": "Showmars",
+    "slug": "showmars"
+  },
+  {
+    "name": "Siete",
+    "slug": "siete"
+  },
+  {
+    "name": "Signature Cafe",
+    "slug": "signature-cafe"
+  },
+  {
+    "name": "Signature Kitchens",
+    "slug": "signature-kitchens"
+  },
+  {
+    "name": "Silk",
+    "slug": "silk"
+  },
+  {
+    "name": "Silver Mine Subs",
+    "slug": "silver-mine-subs"
+  },
+  {
+    "name": "Simmering Samurai",
+    "slug": "simmering-samurai"
+  },
+  {
+    "name": "Simms",
+    "slug": "simms"
+  },
+  {
+    "name": "Simple Mills",
+    "slug": "simple-mills"
+  },
+  {
+    "name": "Simple Truth",
+    "slug": "simple-truth"
+  },
+  {
+    "name": "Simply Asia",
+    "slug": "simply-asia"
+  },
+  {
+    "name": "Simply Balanced",
+    "slug": "simply-balanced"
+  },
+  {
+    "name": "Simply Enjoy",
+    "slug": "simply-enjoy"
+  },
+  {
+    "name": "Simply To Go",
+    "slug": "simply-to-go"
+  },
+  {
+    "name": "Sinaloa Hawaii Wraps",
+    "slug": "sinaloa-hawaii-wraps"
+  },
+  {
+    "name": "Sinfit",
+    "slug": "sinfit"
+  },
+  {
+    "name": "Sister Schubert's",
+    "slug": "sister-schuberts"
+  },
+  {
+    "name": "Sizzler",
+    "slug": "sizzler"
+  },
+  {
+    "name": "Skinner",
+    "slug": "skinner"
+  },
+  {
+    "name": "Sky Valley",
+    "slug": "sky-valley"
+  },
+  {
+    "name": "Slate",
+    "slug": "slate"
+  },
+  {
+    "name": "Slim Chickens",
+    "slug": "slim-chickens"
+  },
+  {
+    "name": "Slim Twin",
+    "slug": "slim-twin"
+  },
+  {
+    "name": "Slim-Fast",
+    "slug": "slim-fast"
+  },
+  {
+    "name": "Smart & Simple",
+    "slug": "smart-simple"
+  },
+  {
+    "name": "Smart Chicken",
+    "slug": "smart-chicken"
+  },
+  {
+    "name": "Smart Portion",
+    "slug": "smart-portion"
+  },
+  {
+    "name": "Smartmade",
+    "slug": "smartmade"
+  },
+  {
+    "name": "Smithfield",
+    "slug": "smithfield"
+  },
+  {
+    "name": "Smokey Bones",
+    "slug": "smokey-bones"
+  },
+  {
+    "name": "Smoothie Box",
+    "slug": "smoothie-box"
+  },
+  {
+    "name": "Smoothie King",
+    "slug": "smoothie-king"
+  },
+  {
+    "name": "Snack Planet",
+    "slug": "snack-planet"
+  },
+  {
+    "name": "SnackMasters",
+    "slug": "snackmasters"
+  },
+  {
+    "name": "Snacks",
+    "slug": "snacks"
+  },
+  {
+    "name": "Snap Kitchen",
+    "slug": "snap-kitchen"
+  },
+  {
+    "name": "Snapdragon",
+    "slug": "snapdragon"
+  },
+  {
+    "name": "Snickers",
+    "slug": "snickers"
+  },
+  {
+    "name": "Snow Fox",
+    "slug": "snow-fox"
+  },
+  {
+    "name": "So Right",
+    "slug": "so-right"
+  },
+  {
+    "name": "Sodexo",
+    "slug": "sodexo"
+  },
+  {
+    "name": "Sonic",
+    "slug": "sonic"
+  },
+  {
+    "name": "Sonny's Bar-B-Q",
+    "slug": "sonnys-bar-b-q"
+  },
+  {
+    "name": "Sonoma Jack",
+    "slug": "sonoma-jack"
+  },
+  {
+    "name": "Sophia's Bakery",
+    "slug": "sophias-bakery"
+  },
+  {
+    "name": "Souper Salad",
+    "slug": "souper-salad"
+  },
+  {
+    "name": "Soupergirl",
+    "slug": "soupergirl"
+  },
+  {
+    "name": "South Beach Diet",
+    "slug": "south-beach-diet"
+  },
+  {
+    "name": "Southern Belle",
+    "slug": "southern-belle"
+  },
+  {
+    "name": "Southern Home",
+    "slug": "southern-home"
+  },
+  {
+    "name": "Southern Maid",
+    "slug": "southern-maid"
+  },
+  {
+    "name": "Southern Tsunami Sushi Bar",
+    "slug": "southern-tsunami-sushi-bar"
+  },
+  {
+    "name": "Soy Vay",
+    "slug": "soy-vay"
+  },
+  {
+    "name": "Specially Selected",
+    "slug": "specially-selected"
+  },
+  {
+    "name": "Specialty's",
+    "slug": "specialtys"
+  },
+  {
+    "name": "Speedway SuperAmerica",
+    "slug": "speedway-superamerica"
+  },
+  {
+    "name": "Splendid Spoon",
+    "slug": "splendid-spoon"
+  },
+  {
+    "name": "Spring Home",
+    "slug": "spring-home"
+  },
+  {
+    "name": "Spring Kitchen",
+    "slug": "spring-kitchen"
+  },
+  {
+    "name": "Stacy's",
+    "slug": "stacys"
+  },
+  {
+    "name": "Stacy's Pita Chip Company",
+    "slug": "stacys-pita-chip-company"
+  },
+  {
+    "name": "Stan's Donuts",
+    "slug": "stans-donuts"
+  },
+  {
+    "name": "Standard Process",
+    "slug": "standard-process"
+  },
+  {
+    "name": "Star Anise Foods",
+    "slug": "star-anise-foods"
+  },
+  {
+    "name": "Starbucks",
+    "slug": "starbucks"
+  },
+  {
+    "name": "Start Right",
+    "slug": "start-right"
+  },
+  {
+    "name": "Stater Bros.",
+    "slug": "stater-bros"
+  },
+  {
+    "name": "Steak n Shake",
+    "slug": "steak-n-shake"
+  },
+  {
+    "name": "Steak-umm",
+    "slug": "steak-umm"
+  },
+  {
+    "name": "Steel",
+    "slug": "steel"
+  },
+  {
+    "name": "Stefano's",
+    "slug": "stefanos"
+  },
+  {
+    "name": "Steve's Mediterranean",
+    "slug": "steves-mediterranean"
+  },
+  {
+    "name": "Stevi B's",
+    "slug": "stevi-bs"
+  },
+  {
+    "name": "Sticks Kebob Shop",
+    "slug": "sticks-kebob-shop"
+  },
+  {
+    "name": "Sticky Fingers",
+    "slug": "sticky-fingers"
+  },
+  {
+    "name": "Stone Ridge Creamery",
+    "slug": "stone-ridge-creamery"
+  },
+  {
+    "name": "Stonewall Kitchen",
+    "slug": "stonewall-kitchen"
+  },
+  {
+    "name": "Stop & Shop",
+    "slug": "stop-shop"
+  },
+  {
+    "name": "Strauss",
+    "slug": "strauss"
+  },
+  {
+    "name": "Street Noodles",
+    "slug": "street-noodles"
+  },
+  {
+    "name": "Streit's",
+    "slug": "streits"
+  },
+  {
+    "name": "Strom Products",
+    "slug": "strom-products"
+  },
+  {
+    "name": "Stubb's",
+    "slug": "stubbs"
+  },
+  {
+    "name": "Stuffed Foods",
+    "slug": "stuffed-foods"
+  },
+  {
+    "name": "Submarina California Subs",
+    "slug": "submarina-california-subs"
+  },
+  {
+    "name": "Subway",
+    "slug": "subway"
+  },
+  {
+    "name": "Sugarfina",
+    "slug": "sugarfina"
+  },
+  {
+    "name": "Sugarfish",
+    "slug": "sugarfish"
+  },
+  {
+    "name": "Sum-m!",
+    "slug": "sum-m"
+  },
+  {
+    "name": "Summer Fresh",
+    "slug": "summer-fresh"
+  },
+  {
+    "name": "Sun",
+    "slug": "sun"
+  },
+  {
+    "name": "Sunkist",
+    "slug": "sunkist"
+  },
+  {
+    "name": "Sunniva",
+    "slug": "sunniva"
+  },
+  {
+    "name": "Sunny Select",
+    "slug": "sunny-select"
+  },
+  {
+    "name": "Sunny Street Cafe",
+    "slug": "sunny-street-cafe"
+  },
+  {
+    "name": "Sunrise Pita Company",
+    "slug": "sunrise-pita-company"
+  },
+  {
+    "name": "Super Big Ramen",
+    "slug": "super-big-ramen"
+  },
+  {
+    "name": "Super Chix",
+    "slug": "super-chix"
+  },
+  {
+    "name": "Super Coffee",
+    "slug": "super-coffee"
+  },
+  {
+    "name": "Super Duper",
+    "slug": "super-duper"
+  },
+  {
+    "name": "Surasang",
+    "slug": "surasang"
+  },
+  {
+    "name": "Surf Taco",
+    "slug": "surf-taco"
+  },
+  {
+    "name": "Sushi Avenue",
+    "slug": "sushi-avenue"
+  },
+  {
+    "name": "Sushi with Gusto",
+    "slug": "sushi-with-gusto"
+  },
+  {
+    "name": "Sushiya",
+    "slug": "sushiya"
+  },
+  {
+    "name": "Swanson",
+    "slug": "swanson"
+  },
+  {
+    "name": "Sweet Baby Ray's",
+    "slug": "sweet-baby-rays"
+  },
+  {
+    "name": "Sweet Earth",
+    "slug": "sweet-earth"
+  },
+  {
+    "name": "Sweet Sue",
+    "slug": "sweet-sue"
+  },
+  {
+    "name": "Swerve",
+    "slug": "swerve"
+  },
+  {
+    "name": "Swiss Chalet",
+    "slug": "swiss-chalet"
+  },
+  {
+    "name": "Swiss Miss",
+    "slug": "swiss-miss"
+  },
+  {
+    "name": "Syberg's",
+    "slug": "sybergs"
+  },
+  {
+    "name": "Synear",
+    "slug": "synear"
+  },
+  {
+    "name": "Syntrax",
+    "slug": "syntrax"
+  },
+  {
+    "name": "T. Marzetti",
+    "slug": "t-marzetti"
+  },
+  {
+    "name": "Tabatchnick",
+    "slug": "tabatchnick"
+  },
+  {
+    "name": "Taco Bell",
+    "slug": "taco-bell"
+  },
+  {
+    "name": "Taco Bell Home Originals",
+    "slug": "taco-bell-home-originals"
+  },
+  {
+    "name": "Taco Bueno",
+    "slug": "taco-bueno"
+  },
+  {
+    "name": "Taco Cabana",
+    "slug": "taco-cabana"
+  },
+  {
+    "name": "Taco Casa",
+    "slug": "taco-casa"
+  },
+  {
+    "name": "Taco Del Mar",
+    "slug": "taco-del-mar"
+  },
+  {
+    "name": "Taco Deli",
+    "slug": "taco-deli"
+  },
+  {
+    "name": "Taco Fresco",
+    "slug": "taco-fresco"
+  },
+  {
+    "name": "Taco John's",
+    "slug": "taco-johns"
+  },
+  {
+    "name": "Taco Mac",
+    "slug": "taco-mac"
+  },
+  {
+    "name": "Taco Mayo",
+    "slug": "taco-mayo"
+  },
+  {
+    "name": "Taco Palenque",
+    "slug": "taco-palenque"
+  },
+  {
+    "name": "Taco Tico",
+    "slug": "taco-tico"
+  },
+  {
+    "name": "Taco Time",
+    "slug": "taco-time"
+  },
+  {
+    "name": "Taco Villa",
+    "slug": "taco-villa"
+  },
+  {
+    "name": "Tacos 4 Life",
+    "slug": "tacos-4-life"
+  },
+  {
+    "name": "Tai Pei",
+    "slug": "tai-pei"
+  },
+  {
+    "name": "Tallarico's",
+    "slug": "tallaricos"
+  },
+  {
+    "name": "Tam-x-ico's",
+    "slug": "tam-x-icos"
+  },
+  {
+    "name": "Tandoor Chef",
+    "slug": "tandoor-chef"
+  },
+  {
+    "name": "Tanimura & Antle",
+    "slug": "tanimura-antle"
+  },
+  {
+    "name": "Tapatio",
+    "slug": "tapatio"
+  },
+  {
+    "name": "Tassimo",
+    "slug": "tassimo"
+  },
+  {
+    "name": "Taste of Inspirations",
+    "slug": "taste-of-inspirations"
+  },
+  {
+    "name": "Taste of Korea",
+    "slug": "taste-of-korea"
+  },
+  {
+    "name": "Tastee Choice",
+    "slug": "tastee-choice"
+  },
+  {
+    "name": "Tastefully Plated",
+    "slug": "tastefully-plated"
+  },
+  {
+    "name": "Tastefully Simple",
+    "slug": "tastefully-simple"
+  },
+  {
+    "name": "Tasty Bite",
+    "slug": "tasty-bite"
+  },
+  {
+    "name": "Tasty Wok",
+    "slug": "tasty-wok"
+  },
+  {
+    "name": "Tastybird",
+    "slug": "tastybird"
+  },
+  {
+    "name": "Tastykake",
+    "slug": "tastykake"
+  },
+  {
+    "name": "Tattooed Chef",
+    "slug": "tattooed-chef"
+  },
+  {
+    "name": "Taziki's",
+    "slug": "tazikis"
+  },
+  {
+    "name": "Teeccino",
+    "slug": "teeccino"
+  },
+  {
+    "name": "Tender Belly",
+    "slug": "tender-belly"
+  },
+  {
+    "name": "Teriyaki Experience",
+    "slug": "teriyaki-experience"
+  },
+  {
+    "name": "Teriyaki Madness",
+    "slug": "teriyaki-madness"
+  },
+  {
+    "name": "Teriyaki Stix",
+    "slug": "teriyaki-stix"
+  },
+  {
+    "name": "Texas Roadhouse",
+    "slug": "texas-roadhouse"
+  },
+  {
+    "name": "Texas Wild",
+    "slug": "texas-wild"
+  },
+  {
+    "name": "TGI Friday's",
+    "slug": "tgi-fridays"
+  },
+  {
+    "name": "The Bread Garden",
+    "slug": "the-bread-garden"
+  },
+  {
+    "name": "The Captain's Choice",
+    "slug": "the-captains-choice"
+  },
+  {
+    "name": "The Coffee Bean and Tea",
+    "slug": "the-coffee-bean-and-tea"
+  },
+  {
+    "name": "The Cookie Factory",
+    "slug": "the-cookie-factory"
+  },
+  {
+    "name": "The Fitness Chef",
+    "slug": "the-fitness-chef"
+  },
+  {
+    "name": "The Fresh Hummus Co.",
+    "slug": "the-fresh-hummus-co"
+  },
+  {
+    "name": "The Original Donut Shop Coffee",
+    "slug": "the-original-donut-shop-coffee"
+  },
+  {
+    "name": "The Pasta House Co.",
+    "slug": "the-pasta-house-co"
+  },
+  {
+    "name": "The Ram",
+    "slug": "the-ram"
+  },
+  {
+    "name": "The Simple Greek",
+    "slug": "the-simple-greek"
+  },
+  {
+    "name": "Thomas'",
+    "slug": "thomas"
+  },
+  {
+    "name": "Three Twins",
+    "slug": "three-twins"
+  },
+  {
+    "name": "Thundercloud Subs",
+    "slug": "thundercloud-subs"
+  },
+  {
+    "name": "Tijuana Flats",
+    "slug": "tijuana-flats"
+  },
+  {
+    "name": "Tillamook",
+    "slug": "tillamook"
+  },
+  {
+    "name": "Tillamook Country Smoker",
+    "slug": "tillamook-country-smoker"
+  },
+  {
+    "name": "Tim Hortons",
+    "slug": "tim-hortons"
+  },
+  {
+    "name": "Tina's",
+    "slug": "tinas"
+  },
+  {
+    "name": "Tio Jorge",
+    "slug": "tio-jorge"
+  },
+  {
+    "name": "Togo's",
+    "slug": "togos"
+  },
+  {
+    "name": "Tokyo Joe's",
+    "slug": "tokyo-joes"
+  },
+  {
+    "name": "Tombstone",
+    "slug": "tombstone"
+  },
+  {
+    "name": "Tonton",
+    "slug": "tonton"
+  },
+  {
+    "name": "Tony Chachere's",
+    "slug": "tony-chacheres"
+  },
+  {
+    "name": "Tony Luke's",
+    "slug": "tony-lukes"
+  },
+  {
+    "name": "Tony's Pizza",
+    "slug": "tonys-pizza"
+  },
+  {
+    "name": "Tortillas Mexico",
+    "slug": "tortillas-mexico"
+  },
+  {
+    "name": "Tortillas Nuevo Leon",
+    "slug": "tortillas-nuevo-leon"
+  },
+  {
+    "name": "Totino's",
+    "slug": "totinos"
+  },
+  {
+    "name": "Toufayan Bakeries",
+    "slug": "toufayan-bakeries"
+  },
+  {
+    "name": "Tourza Bakery",
+    "slug": "tourza-bakery"
+  },
+  {
+    "name": "Trader Ming's",
+    "slug": "trader-mings"
+  },
+  {
+    "name": "Trail's Best",
+    "slug": "trails-best"
+  },
+  {
+    "name": "Trans-Ocean",
+    "slug": "trans-ocean"
+  },
+  {
+    "name": "Trazza Foods",
+    "slug": "trazza-foods"
+  },
+  {
+    "name": "Treasures from the Sea",
+    "slug": "treasures-from-the-sea"
+  },
+  {
+    "name": "Tree of Life",
+    "slug": "tree-of-life"
+  },
+  {
+    "name": "Tribe",
+    "slug": "tribe"
+  },
+  {
+    "name": "Trident Seafoods",
+    "slug": "trident-seafoods"
+  },
+  {
+    "name": "Trifecta",
+    "slug": "trifecta"
+  },
+  {
+    "name": "Tropical Smoothie Cafe",
+    "slug": "tropical-smoothie-cafe"
+  },
+  {
+    "name": "Tropicana",
+    "slug": "tropicana"
+  },
+  {
+    "name": "Tropicland",
+    "slug": "tropicland"
+  },
+  {
+    "name": "True Food Kitchen",
+    "slug": "true-food-kitchen"
+  },
+  {
+    "name": "True Goodness",
+    "slug": "true-goodness"
+  },
+  {
+    "name": "Truffettes de France",
+    "slug": "truffettes-de-france"
+  },
+  {
+    "name": "Tumaro's",
+    "slug": "tumaros"
+  },
+  {
+    "name": "Turano",
+    "slug": "turano"
+  },
+  {
+    "name": "Turkey Hill",
+    "slug": "turkey-hill"
+  },
+  {
+    "name": "Turo-Turo Gourmet",
+    "slug": "turo-turo-gourmet"
+  },
+  {
+    "name": "Twin Marquis",
+    "slug": "twin-marquis"
+  },
+  {
+    "name": "Twisted Fresh",
+    "slug": "twisted-fresh"
+  },
+  {
+    "name": "Two Good",
+    "slug": "two-good"
+  },
+  {
+    "name": "Udi's",
+    "slug": "udis"
+  },
+  {
+    "name": "Umami Burger",
+    "slug": "umami-burger"
+  },
+  {
+    "name": "Uncle Ben's",
+    "slug": "uncle-bens"
+  },
+  {
+    "name": "Uno Chicago Grill",
+    "slug": "uno-chicago-grill"
+  },
+  {
+    "name": "Utz",
+    "slug": "utz"
+  },
+  {
+    "name": "Valbest",
+    "slug": "valbest"
+  },
+  {
+    "name": "Van de Kamp's",
+    "slug": "van-de-kamps"
+  },
+  {
+    "name": "Van's",
+    "slug": "vans"
+  },
+  {
+    "name": "Veestro",
+    "slug": "veestro"
+  },
+  {
+    "name": "Vega",
+    "slug": "vega"
+  },
+  {
+    "name": "Vega One",
+    "slug": "vega-one"
+  },
+  {
+    "name": "Vegetarian Plus",
+    "slug": "vegetarian-plus"
+  },
+  {
+    "name": "Veggie Grill",
+    "slug": "veggie-grill"
+  },
+  {
+    "name": "Veggie Patch",
+    "slug": "veggie-patch"
+  },
+  {
+    "name": "Veggies Made Great",
+    "slug": "veggies-made-great"
+  },
+  {
+    "name": "Velvet",
+    "slug": "velvet"
+  },
+  {
+    "name": "Ventera Ranch",
+    "slug": "ventera-ranch"
+  },
+  {
+    "name": "VH Sauces",
+    "slug": "vh-sauces"
+  },
+  {
+    "name": "Viana",
+    "slug": "viana"
+  },
+  {
+    "name": "Vibi",
+    "slug": "vibi"
+  },
+  {
+    "name": "Vifon",
+    "slug": "vifon"
+  },
+  {
+    "name": "Vigo",
+    "slug": "vigo"
+  },
+  {
+    "name": "Village Inn",
+    "slug": "village-inn"
+  },
+  {
+    "name": "Vina Acecook",
+    "slug": "vina-acecook"
+  },
+  {
+    "name": "Vinacafe",
+    "slug": "vinacafe"
+  },
+  {
+    "name": "VIP",
+    "slug": "vip"
+  },
+  {
+    "name": "ViSalus",
+    "slug": "visalus"
+  },
+  {
+    "name": "Vite Ramen",
+    "slug": "vite-ramen"
+  },
+  {
+    "name": "Vitners",
+    "slug": "vitners"
+  },
+  {
+    "name": "Vivri",
+    "slug": "vivri"
+  },
+  {
+    "name": "Volupta",
+    "slug": "volupta"
+  },
+  {
+    "name": "Voortman",
+    "slug": "voortman"
+  },
+  {
+    "name": "Waba Grill",
+    "slug": "waba-grill"
+  },
+  {
+    "name": "Waffle House",
+    "slug": "waffle-house"
+  },
+  {
+    "name": "Wagamama",
+    "slug": "wagamama"
+  },
+  {
+    "name": "Wahlburgers",
+    "slug": "wahlburgers"
+  },
+  {
+    "name": "Wahoo's Fish Taco",
+    "slug": "wahoos-fish-taco"
+  },
+  {
+    "name": "Wakim's Foods",
+    "slug": "wakims-foods"
+  },
+  {
+    "name": "Wal-Mart",
+    "slug": "wal-mart"
+  },
+  {
+    "name": "Wal-Mart Bakery",
+    "slug": "wal-mart-bakery"
+  },
+  {
+    "name": "Walgreens",
+    "slug": "walgreens"
+  },
+  {
+    "name": "Wanchai Ferry",
+    "slug": "wanchai-ferry"
+  },
+  {
+    "name": "Wang",
+    "slug": "wang"
+  },
+  {
+    "name": "Wang Korea",
+    "slug": "wang-korea"
+  },
+  {
+    "name": "Wasa",
+    "slug": "wasa"
+  },
+  {
+    "name": "Waterfront Bistro",
+    "slug": "waterfront-bistro"
+  },
+  {
+    "name": "Wawa",
+    "slug": "wawa"
+  },
+  {
+    "name": "Wayback Burgers",
+    "slug": "wayback-burgers"
+  },
+  {
+    "name": "Weaver",
+    "slug": "weaver"
+  },
+  {
+    "name": "Wegmans",
+    "slug": "wegmans"
+  },
+  {
+    "name": "Wei Chuan",
+    "slug": "wei-chuan"
+  },
+  {
+    "name": "Weichuan",
+    "slug": "weichuan"
+  },
+  {
+    "name": "Weis",
+    "slug": "weis"
+  },
+  {
+    "name": "Werner",
+    "slug": "werner"
+  },
+  {
+    "name": "Western Bagel",
+    "slug": "western-bagel"
+  },
+  {
+    "name": "Western Family",
+    "slug": "western-family"
+  },
+  {
+    "name": "WestSoy",
+    "slug": "westsoy"
+  },
+  {
+    "name": "Whataburger",
+    "slug": "whataburger"
+  },
+  {
+    "name": "Wheatland Select",
+    "slug": "wheatland-select"
+  },
+  {
+    "name": "White Spot",
+    "slug": "white-spot"
+  },
+  {
+    "name": "Whole Catch",
+    "slug": "whole-catch"
+  },
+  {
+    "name": "Whole Kitchen",
+    "slug": "whole-kitchen"
+  },
+  {
+    "name": "Wholly Veggie!",
+    "slug": "wholly-veggie"
+  },
+  {
+    "name": "Wicked Cutz",
+    "slug": "wicked-cutz"
+  },
+  {
+    "name": "Wicked Kitchen",
+    "slug": "wicked-kitchen"
+  },
+  {
+    "name": "Wickles",
+    "slug": "wickles"
+  },
+  {
+    "name": "Wienerschnitzel",
+    "slug": "wienerschnitzel"
+  },
+  {
+    "name": "Wild Garden",
+    "slug": "wild-garden"
+  },
+  {
+    "name": "Wild Harvest",
+    "slug": "wild-harvest"
+  },
+  {
+    "name": "Williams-Sonoma",
+    "slug": "williams-sonoma"
+  },
+  {
+    "name": "Wilton",
+    "slug": "wilton"
+  },
+  {
+    "name": "Winchell's",
+    "slug": "winchells"
+  },
+  {
+    "name": "Wing Zone",
+    "slug": "wing-zone"
+  },
+  {
+    "name": "Wing-Time",
+    "slug": "wing-time"
+  },
+  {
+    "name": "Wingstop",
+    "slug": "wingstop"
+  },
+  {
+    "name": "Wingstreet",
+    "slug": "wingstreet"
+  },
+  {
+    "name": "Winn-Dixie",
+    "slug": "winn-dixie"
+  },
+  {
+    "name": "Women's Best",
+    "slug": "womens-best"
+  },
+  {
+    "name": "Wonder",
+    "slug": "wonder"
+  },
+  {
+    "name": "World Catch",
+    "slug": "world-catch"
+  },
+  {
+    "name": "World of Beer",
+    "slug": "world-of-beer"
+  },
+  {
+    "name": "World's Fair",
+    "slug": "worlds-fair"
+  },
+  {
+    "name": "Worthington Loma Linda",
+    "slug": "worthington-loma-linda"
+  },
+  {
+    "name": "Wow Bao",
+    "slug": "wow-bao"
+  },
+  {
+    "name": "Wow!",
+    "slug": "wow"
+  },
+  {
+    "name": "XS",
+    "slug": "xs"
+  },
+  {
+    "name": "Xtend",
+    "slug": "xtend"
+  },
+  {
+    "name": "Xtreme Juice",
+    "slug": "xtreme-juice"
+  },
+  {
+    "name": "Yamachan's",
+    "slug": "yamachans"
+  },
+  {
+    "name": "Yankee Trader",
+    "slug": "yankee-trader"
+  },
+  {
+    "name": "Yard House",
+    "slug": "yard-house"
+  },
+  {
+    "name": "Yaya's",
+    "slug": "yayas"
+  },
+  {
+    "name": "Yissine",
+    "slug": "yissine"
+  },
+  {
+    "name": "Yogis Grill",
+    "slug": "yogis-grill"
+  },
+  {
+    "name": "Yoplait",
+    "slug": "yoplait"
+  },
+  {
+    "name": "Yoshida's",
+    "slug": "yoshidas"
+  },
+  {
+    "name": "Yoshinoya",
+    "slug": "yoshinoya"
+  },
+  {
+    "name": "Yummy",
+    "slug": "yummy"
+  },
+  {
+    "name": "Yummy Dino Buddies",
+    "slug": "yummy-dino-buddies"
+  },
+  {
+    "name": "Yves Veggies",
+    "slug": "yves-veggies"
+  },
+  {
+    "name": "Zaxby's",
+    "slug": "zaxbys"
+  },
+  {
+    "name": "Zippy's",
+    "slug": "zippys"
+  },
+  {
+    "name": "Ziyad",
+    "slug": "ziyad"
+  },
+  {
+    "name": "Zoup!",
+    "slug": "zoup"
+  },
+  {
+    "name": "Zpizza",
+    "slug": "zpizza"
+  }
 ]
