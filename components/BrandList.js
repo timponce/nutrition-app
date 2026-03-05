@@ -4,20 +4,15 @@ import React from "react";
 import brandStyles from "../styles/Brand.module.css";
 
 const BrandList = ({ brandsData }) => {
-  const [brands, setBrands] = React.useState(brandsData);
   const [searchText, setSearchText] = React.useState("");
 
   const handleChange = (e) => {
-    let userInput = e.target.value.toLowerCase();
-    setSearchText(userInput);
+    setSearchText(e.target.value.toLowerCase());
   };
 
-  const filteredBrands = brands.filter((el) => {
-    if (searchText === "") {
-      return el;
-    } else {
-      return el.name.toLowerCase().includes(searchText);
-    }
+  const filteredBrands = brandsData.filter((el) => {
+    if (searchText === "") return true;
+    return el.name.toLowerCase().includes(searchText);
   });
 
   return (
@@ -26,17 +21,17 @@ const BrandList = ({ brandsData }) => {
       <input
         className={brandStyles.input}
         placeholder="Search"
-        onChange={(e) => handleChange(e)}
+        onChange={handleChange}
         value={searchText}
       ></input>
       <br />
       <div className={brandStyles.grid}>
         {filteredBrands.map((brand) => (
-          <BrandItem brand={brand} key={brand.id} id={brand.id} />
+          <BrandItem brand={brand} key={brand.slug} />
         ))}
       </div>
       <Announcer
-        message={`There are ${filteredBrands} brands to choose from.`}
+        message={`There are ${filteredBrands.length} brands to choose from.`}
       />
     </>
   );

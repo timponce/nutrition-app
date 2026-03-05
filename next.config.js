@@ -1,14 +1,10 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-};
-
 require("dotenv").config();
 
+/** @type {import('next').NextConfig} */
 module.exports = {
+  reactStrictMode: true,
   env: {
-    API_ID: process.env.API_ID,
-    API_KEY: process.env.API_KEY,
-    nextConfig,
+    FATSECRET_CONSUMER_KEY: process.env.FATSECRET_CONSUMER_KEY,
+    FATSECRET_CONSUMER_SECRET: process.env.FATSECRET_CONSUMER_SECRET,
   },
 };

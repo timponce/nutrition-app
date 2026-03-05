@@ -3,7 +3,7 @@ import brandStyles from "../styles/Brand.module.css";
 
 const BrandItem = ({ brand }) => {
   return (
-    <Link href="/brand/[id]" as={`/brand/${brand.id}`}>
+    <Link href="/brand/[slug]" as={`/brand/${brand.slug}`}>
       <a className={brandStyles.card}>
         <h3>{brand.name} &rarr;</h3>
       </a>

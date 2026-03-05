@@ -49,13 +49,10 @@ const Table = ({ brandFoods }) => {
   const [tableColumns, setTableColumns] = React.useState(tableHeadings);
 
   const [foodData, setFoodData] = React.useState(
-    brandFoods.map((brandFood) => {
-      return (
-        (brandFood.fields["nf_protein_ratio"] =
-          (brandFood.fields.nf_protein * 4) / brandFood.fields.nf_calories ||
-          0),
-        brandFood.fields
-      );
+    brandFoods.map((food) => {
+      food.nf_protein_ratio =
+        (food.nf_protein * 4) / food.nf_calories || 0;
+      return food;
     })
   );
 
@@ -122,7 +119,7 @@ const Table = ({ brandFoods }) => {
   return (
     <div>
       <h1 className={tableStyles.sectionTitle}>
-        {brandFoods[0].fields.brand_name}
+        {brandFoods[0].brand_name}
       </h1>
       <br />
       <table id="table" className={tableStyles.table}>
@@ -140,9 +137,9 @@ const Table = ({ brandFoods }) => {
             ))}
           </tr>
         </thead>
-        <thead>
+        <tbody>
           {foodData.map((food) => (
-            <tr key={food.item_id}>
+            <tr key={food.food_id}>
               <td>{food.item_name}</td>
               <td>{food.nf_calories}</td>
               <td>{food.nf_protein}</td>
@@ -151,7 +148,7 @@ const Table = ({ brandFoods }) => {
               <td>{food.nf_protein_ratio.toFixed(3)}</td>
             </tr>
           ))}
-        </thead>
+        </tbody>
       </table>
     </div>
   );
